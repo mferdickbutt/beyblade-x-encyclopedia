@@ -1,0 +1,685 @@
+[
+  {
+    "id": "dran-sword",
+    "name": "Dran Sword",
+    "name_ja": "ドランソード",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-01",
+    "type": "attack",
+    "notes": "Takara Tomy Basic Line blade from starter BX-01 Dran Sword 3-60F (released 2023-07-15). Official JP copy: high-attack blade paired with a dash-oriented bit for a powerful X Dash. Takara Tomy Asia Start Dash Guide: three uppercut blades, 'excellent at flipping the opponent's Bey diagonally upwards.' Hasbro English product name: Sword Dran (item F9580, labeled Attack Type). Stock combo type is set by the Bit (official guide); this attack label is from the BX-01 / Hasbro Attack Type product.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx01.html",
+        "label": "Takara Tomy BX-01 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide (DRANSWORD)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-sword-dran-3-60-f-starter-pack-set-with-attack-type-top-and-launcher-ages-8-plus/F9580",
+        "label": "Hasbro Sword Dran 3-60F starter (F9580)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "hells-scythe",
+    "name": "Hells Scythe",
+    "name_ja": "ヘルズサイズ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-02",
+    "type": "balance",
+    "notes": "Takara Tomy Basic Line blade from starter BX-02 Hells Scythe 4-60T (released 2023-07-15). Official JP copy: parts combined for attack/defense balance and broader matchup coverage. Start Dash Guide: four blades, 'excellent at breaking the opponent's Bey'; combo labeled Balance Type. Hasbro English product name: Scythe Incendio (item F9583, labeled Balance Type).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx02.html",
+        "label": "Takara Tomy BX-02 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide (HELLSSCYTHE)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-ca/product/beyblade-x-scythe-incendio-4-60-t-starter-pack-set-with-balance-type-top-and-launcher-ages-8-plus/F9583",
+        "label": "Hasbro Scythe Incendio 4-60T starter (F9583)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "wizard-arrow",
+    "name": "Wizard Arrow",
+    "name_ja": "ウィザードアロー",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-03",
+    "type": "stamina",
+    "notes": "Takara Tomy Basic Line blade from starter BX-03 Wizard Arrow 4-80B (released 2023-07-15). Official JP copy: blade that generates strong centrifugal force; combo described as excelling at long spin. Start Dash Guide: outer center of gravity with two large circular blades; combo labeled Stamina Type. Also sold as booster BX-05. Hasbro English product name: Arrow Wizard (item F9582, labeled Stamina Type).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx03.html",
+        "label": "Takara Tomy BX-03 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide (WIZARDARROW)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-arrow-wizard-4-80-b-starter-pack-set-with-stamina-type-top-and-launcher-ages-8-plus/F9582",
+        "label": "Hasbro Arrow Wizard 4-80B starter (F9582)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "knight-shield",
+    "name": "Knight Shield",
+    "name_ja": "ナイトシールド",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-04",
+    "type": "defense",
+    "notes": "Takara Tomy Basic Line blade from starter BX-04 Knight Shield 3-80N (released 2023-07-15). Official JP copy: impact-absorbing blade. Start Dash Guide: damper structure with six pieces of protection; combo labeled Defensive Type. Also sold as booster BX-06. Hasbro English product name: Helm Knight (item F9581, labeled Defense Type).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx04.html",
+        "label": "Takara Tomy BX-04 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide (KNIGHTSHIELD)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-helm-knight-3-80-n-starter-pack-set-with-defense-type-top-and-launcher-ages-8-plus/F9581",
+        "label": "Hasbro Helm Knight 3-80N starter (F9581)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "knight-lance",
+    "name": "Knight Lance",
+    "name_ja": "ナイトランス",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-13",
+    "type": "unknown",
+    "notes": "Takara Tomy Basic Line blade from booster BX-13 Knight Lance 4-80HN (released 2023-08-10). Official JP copy: high-positioned blades paired with a tall bit, specialized for counter performance. Official pages do not print Attack/Defense/Stamina/Balance on this blade alone; type left unknown. Listed in the Takara Tomy Asia Start Dash Guide lineup as BX-13 BOOSTER KNIGHT LANCE 4-80HN.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx13.html",
+        "label": "Takara Tomy BX-13 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide lineup (KNIGHT LANCE)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "leon-claw",
+    "name": "Leon Claw",
+    "name_ja": "レオンクロー",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-15",
+    "type": "unknown",
+    "notes": "Takara Tomy Basic Line blade from starter BX-15 Leon Claw 5-60P (released 2023-10-07). Official JP copy: blade with both attack and defense blades; stock bit can change movement depending on how you shoot. Cited pages do not print a single Attack/Defense/Stamina/Balance label for the blade; type left unknown. Hasbro English product name: Claw Leon (item G0193).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx15.html",
+        "label": "Takara Tomy BX-15 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide lineup (LEON CLAW)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-claw-leon-5-60-p-starter-pack-top-and-launcher/G0193",
+        "label": "Hasbro Claw Leon 5-60P starter (G0193)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "rhino-horn",
+    "name": "Rhino Horn",
+    "name_ja": "ライノホーン",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-19",
+    "type": "defense",
+    "notes": "Takara Tomy Basic Line blade from booster BX-19 Rhino Horn 3-80S (released 2023-11-02). Official JP copy: small-diameter inward-weighted (inner-center-of-gravity) blade; stock combo described as staying near stadium center and repelling attacks from all directions. Defense label is from that official product description, not a printed Hasbro type line.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx19.html",
+        "label": "Takara Tomy BX-19 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-19)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "phoenix-wing",
+    "name": "Phoenix Wing",
+    "name_ja": "フェニックスウイング",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-23",
+    "type": "attack",
+    "notes": "Takara Tomy Basic Line blade from starter BX-23 Phoenix Wing 9-60GF (released 2023-12-27). Official JP copy: painted metal three-blade design that strongly knocks the opponent away; paired with a gear-shaped bit tip for a heavy X Dash. Official BX-23 manual lists blade 【フェニックスウイング メタルコート：レッド】 and bit 【GF】. Attack label is from that knock-away / X Dash product copy, not a separate printed type badge.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx23.html",
+        "label": "Takara Tomy BX-23 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-23_manual.pdf",
+        "label": "Takara Tomy BX-23 instruction manual (PDF)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "unicorn-sting",
+    "name": "Unicorn Sting",
+    "name_ja": "ユニコーンスティング",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-26",
+    "type": "unknown",
+    "notes": "Takara Tomy Basic Line blade from booster BX-26 Unicorn Sting 5-60GP (released 2024-01-27). Official JP copy: strongly left/right asymmetric blade with both attack and defense performance; stock bit can change movement by shooting method. No Attack/Defense/Stamina/Balance print found on the cited pages; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx26.html",
+        "label": "Takara Tomy BX-26 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-26)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "cobalt-dragoon",
+    "name": "Cobalt Dragoon",
+    "name_ja": "コバルトドラグーン",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-34",
+    "type": "attack",
+    "notes": "Takara Tomy Basic Line blade from starter BX-34 Cobalt Dragoon 2-60C (released 2024-07-13). Official JP copy: first left-spin Beyblade in Beyblade X; left-spin blade/ratchet/bit combination described as delivering a high-power dash attack on a reverse path versus right-spin beys. Ships with String Launcher L. Attack label is from that official combo description.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx34.html",
+        "label": "Takara Tomy BX-34 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (BX-34 in Basic Line)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "dran-buster",
+    "name": "Dran Buster",
+    "name_ja": "ドランバスター",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-01",
+    "type": "attack",
+    "notes": "Takara Tomy Unique Line blade from starter UX-01 Dran Buster 1-60A (released 2024-03-30). Official JP copy: Unique Line puts more blade metal on the outer rim; large attack blades for instantaneous attack, with a large-gear bit that raises X Dash performance; specialized for one-hit attack power.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux01.html",
+        "label": "Takara Tomy UX-01 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Unique Line / UX-01)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "hells-hammer",
+    "name": "Hells Hammer",
+    "name_ja": "ヘルズハンマー",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-02",
+    "type": "unknown",
+    "notes": "Takara Tomy Unique Line blade from starter UX-02 Hells Hammer 3-70H (released 2024-03-30). Official JP copy: thick smash blades plus a high posture-holding bit, specialized for slamming the opponent into the stadium. Cited pages do not print Attack/Defense/Stamina/Balance; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux02.html",
+        "label": "Takara Tomy UX-02 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Unique Line / UX-02)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "wizard-rod",
+    "name": "Wizard Rod",
+    "name_ja": "ウィザードロッド",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-03",
+    "type": "stamina",
+    "notes": "Takara Tomy Unique Line blade from booster UX-03 Wizard Rod 5-70DB (released 2024-03-30). Official JP copy: outer-weighted large-diameter blade plus a ball-shaped bit with a disc-like weight, specialized for raising centrifugal force and stamina performance.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux03.html",
+        "label": "Takara Tomy UX-03 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Unique Line / UX-03)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-3-60",
+    "name": "3-60",
+    "name_ja": "3-60",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "BX-01",
+    "type": "unknown",
+    "notes": "Height/contact ratchet from BX-01 Dran Sword 3-60F. BX-01 manual lists ラチェット【3-60】. Start Dash Guide: 'The part that set the Bey low. Adopts 3 blades with high repelling performance.' Official gear page: ratchets set height, weight balance, and how the blade collides. Ratchets are not a printed Attack/Defense/Stamina/Balance type; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-01_manual.pdf",
+        "label": "Takara Tomy BX-01 instruction manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide (Ratchet 3-60)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Ratchet role)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-4-60",
+    "name": "4-60",
+    "name_ja": "4-60",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "BX-02",
+    "type": "unknown",
+    "notes": "Height/contact ratchet from BX-02 Hells Scythe 4-60T. Start Dash Guide: 'The part that set the bey low. Adopts 4 blades that easily evade attacks.' Ratchets are not a printed type category; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx02.html",
+        "label": "Takara Tomy BX-02 product page (4-60 in product name)",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide (Ratchet 4-60)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-4-80",
+    "name": "4-80",
+    "name_ja": "4-80",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "BX-03",
+    "type": "unknown",
+    "notes": "Height/contact ratchet from BX-03 Wizard Arrow 4-80B. Start Dash Guide: 'Parts that set the Bey high. Use 4 blades to easily evade attacks.' Also used on BX-13 Knight Lance 4-80HN. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx03.html",
+        "label": "Takara Tomy BX-03 product page (4-80 in product name)",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide (Ratchet 4-80)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-3-80",
+    "name": "3-80",
+    "name_ja": "3-80",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "BX-04",
+    "type": "unknown",
+    "notes": "Height/contact ratchet from BX-04 Knight Shield 3-80N. Start Dash Guide: 'The part that set the Bey high. Adopts 3 blades with high repelling performance.' Also used on BX-19 Rhino Horn 3-80S. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx04.html",
+        "label": "Takara Tomy BX-04 product page (3-80 in product name)",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide (Ratchet 3-80)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-5-60",
+    "name": "5-60",
+    "name_ja": "5-60",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "BX-15",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in starter BX-15 Leon Claw 5-60P and booster BX-26 Unicorn Sting 5-60GP. Official pages name the ratchet only as the 5-60 segment of the product code; no printed Attack/Defense/Stamina/Balance type. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx15.html",
+        "label": "Takara Tomy BX-15 product page (5-60 in product name)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx26.html",
+        "label": "Takara Tomy BX-26 product page (5-60 in product name)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-9-60",
+    "name": "9-60",
+    "name_ja": "9-60",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "BX-23",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in starter BX-23 Phoenix Wing 9-60GF. Official pages name it only as the 9-60 segment of the product code. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx23.html",
+        "label": "Takara Tomy BX-23 product page (9-60 in product name)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-23_manual.pdf",
+        "label": "Takara Tomy BX-23 instruction manual (PDF)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-1-60",
+    "name": "1-60",
+    "name_ja": "1-60",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-01",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Unique Line starter UX-01 Dran Buster 1-60A. Official pages name it only as the 1-60 segment of the product code. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux01.html",
+        "label": "Takara Tomy UX-01 product page (1-60 in product name)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-01)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-flat",
+    "name": "F (Flat)",
+    "name_ja": "F（フラット）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "BX-01",
+    "type": "attack",
+    "notes": "Shaft-tip bit. Takara Tomy BX-00 bit set copy expands F as フラット (Flat). BX-01 manual lists ビット【F】. Start Dash Guide: 'The flat tip of the axis makes the Bey easier to produce the X-dash'; stock DRANSWORD 3-60F is Attack Type. Official beginner guide: Beyblade type is determined by the Bit. Also included in BX-00 F/T/B/N bit sets.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-bit_silver_white.html",
+        "label": "Takara Tomy BX-00 F/T/B/N bit set (F = Flat)",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide (Bit F / Flat)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/guide/",
+        "label": "Takara Tomy beginner guide (type determined by Bit)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-taper",
+    "name": "T (Taper)",
+    "name_ja": "T（テーパー）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "BX-02",
+    "type": "balance",
+    "notes": "Shaft-tip bit. Official BX-00 bit set copy expands T as テーパー (Taper). Start Dash Guide: 'The narrowed bit of the axis allows for both early attack power and late-game stamina'; stock HELLSSCYTHE 4-60T is Balance Type. Official beginner guide: type is determined by the Bit.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-bit_silver_white.html",
+        "label": "Takara Tomy BX-00 F/T/B/N bit set (T = Taper)",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide (Bit T / Taper)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-ball",
+    "name": "B (Ball)",
+    "name_ja": "B（ボール）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "BX-03",
+    "type": "stamina",
+    "notes": "Shaft-tip bit. Official BX-00 bit set copy expands B as ボール (Ball). Start Dash Guide: spherical tip 'allows the Bey to evade attacks with just the right amount of movement and achieves high stamina'; stock WIZARDARROW 4-80B is Stamina Type.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-bit_silver_white.html",
+        "label": "Takara Tomy BX-00 F/T/B/N bit set (B = Ball)",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide (Bit B / Ball)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-needle",
+    "name": "N (Needle)",
+    "name_ja": "N（ニードル）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "BX-04",
+    "type": "defense",
+    "notes": "Shaft-tip bit. Official BX-00 bit set copy expands N as ニードル (Needle). Start Dash Guide: 'The sharp bit of the axis tilts and improves counter-performance'; stock KNIGHTSHIELD 3-80N is Defensive Type. BX-04 JP copy: bit that tends to stay in stadium center.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-bit_silver_white.html",
+        "label": "Takara Tomy BX-00 F/T/B/N bit set (N = Needle)",
+        "kind": "official"
+      },
+      {
+        "url": "https://takaratomyasia.com/documents/beybladex/1705650582_Beyblade%20X_Start%20Dash%20Guide.pdf",
+        "label": "Takara Tomy Asia Start Dash Guide (Bit N / Needle)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx04.html",
+        "label": "Takara Tomy BX-04 product page (center-holding bit)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-point",
+    "name": "P (Point)",
+    "name_ja": "P（ポイント）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "BX-15",
+    "type": "unknown",
+    "notes": "Shaft-tip bit. Takara Tomy campaign page names it P/ポイント (Point). BX-15 JP copy: bit whose movement can change depending on how you shoot. No Attack/Defense/Stamina/Balance print found on the cited pages; type left unknown. Do not confuse with lock-chip or assist-blade letters that also use P.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news251015_3.html",
+        "label": "Takara Tomy Plus One Bit campaign (P/ポイント)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx15.html",
+        "label": "Takara Tomy BX-15 product page (5-60P)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-dran",
+    "name": "Dran",
+    "name_ja": "ドラン",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-01",
+    "type": "unknown",
+    "notes": "Custom Line lock chip. Takara Tomy Gear Structure: Custom Line blades disassemble into lock chip, main blade, and assist blade. Official CX CUP parts list names ドラン as a lock chip. First listed on starter CX-01 Dran Brave S6-60V (lock chip Dran + main blade Brave + assist blade S/Slash + ratchet 6-60 + bit V). Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip ドラン)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx01.html",
+        "label": "Takara Tomy CX-01 product page (ドランブレイブS6-60V)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Custom Line lock chip)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-wizard",
+    "name": "Wizard",
+    "name_ja": "ウィザード",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-02",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named ウィザード on the official CX CUP parts list. First listed on starter CX-02 Wizard Arc R4-55LO (lock chip Wizard + main blade Arc + assist blade R/Round + ratchet 4-55 + bit LO). Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip ウィザード)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx02.html",
+        "label": "Takara Tomy CX-02 product page (ウィザードアークR4-55LO)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-perseus",
+    "name": "Perseus",
+    "name_ja": "ペルセウス",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-03",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named ペルセウス on the official CX CUP parts list. First listed on booster CX-03 Perseus Dark B6-80W (lock chip Perseus + main blade Dark + assist blade B/Bumper + ratchet 6-80 + bit W). Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip ペルセウス)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx03.html",
+        "label": "Takara Tomy CX-03 product page (ペルセウスダークB6-80W)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-slash",
+    "name": "S (Slash)",
+    "name_ja": "S（スラッシュ）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-01",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands S as スラッシュ (Slash) under アシストブレード. Appears as the S in CX-01 Dran Brave S6-60V. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade S/Slash)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx01.html",
+        "label": "Takara Tomy CX-01 product page (S in ドランブレイブS6-60V)",
+        "kind": "official"
+      }
+    ]
+  }
+]
