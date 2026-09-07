@@ -681,5 +681,583 @@
         "kind": "official"
       }
     ]
+  },
+  {
+    "id": "shark-edge",
+    "name": "Shark Edge",
+    "name_ja": "シャークエッジ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-14",
+    "type": "attack",
+    "notes": "Takara Tomy Basic Line blade; prize Bey of random booster BX-14 Vol.1 (released 2023-09-09). Official JP copy: rare is シャークエッジ3-60LF; short parts combined to attack from a low position and aim for a burst finish. Attack label is from that official prize-combo description, not a separate printed type badge. Hasbro English product name on shop slug: Keel Shark 3-60LF (item G0194, labeled Attack Type). Other slots in the booster are special-color customized Beys.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx14.html",
+        "label": "Takara Tomy BX-14 Random Booster Vol.1",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-14 ランダムブースター)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-keel-shark-3-60-lf-booster-pack-set-with-attack-type-top-ages-8-plus/G0194",
+        "label": "Hasbro Keel Shark 3-60LF booster (G0194)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "viper-tail",
+    "name": "Viper Tail",
+    "name_ja": "ヴァイパーテイル",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-16",
+    "type": "unknown",
+    "notes": "Takara Tomy Basic Line blade from random booster BX-16 Viper Tail Select (released 2023-10-07). Official JP copy: all three slots use new blade ヴァイパーテイル in special colors; featured combo ヴァイパーテイル5-80O uses downward blades to attack from above and stop the opponent, aiming for a spin finish. Cited pages do not print Attack/Defense/Stamina/Balance on the blade alone; type left unknown. Hasbro English product name on shop slug: Talon Ptera (item G0195; that listing is a 3-80B combo, not the JP 5-80O featured combo).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx16.html",
+        "label": "Takara Tomy BX-16 Viper Tail Select",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-16 ランダムブースター)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-talon-ptera-3-80-b-booster-pack-set-with-stamina-type-top-ages-8-plus/G0195",
+        "label": "Hasbro Talon Ptera 3-80B booster (G0195)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "wyvern-gale",
+    "name": "Wyvern Gale",
+    "name_ja": "ワイバーンゲイル",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-24",
+    "type": "unknown",
+    "notes": "Takara Tomy Basic Line blade; prize Bey of random booster BX-24 Vol.2 (released 2023-12-27). Official JP copy: rare is ワイバーンゲイル5-80GB; streamlined four-blade shape reduces air resistance for longer spin, paired with a large spherical bit tip that can counter while holding posture. Cited pages do not print Attack/Defense/Stamina/Balance on the blade alone; type left unknown. Hasbro English product name on shop slug: Gale Wyvern (item G0282 dual pack with Tail Viper).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx24.html",
+        "label": "Takara Tomy BX-24 Random Booster Vol.2",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-24_manual.pdf",
+        "label": "Takara Tomy BX-24 instruction manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-gale-wyvern-5-80-gb-and-tail-viper-3-80-hn-top-dual-pack-set/G0282",
+        "label": "Hasbro Gale Wyvern 5-80GB dual pack (G0282)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "sphinx-cowl",
+    "name": "Sphinx Cowl",
+    "name_ja": "スフィンクスカウル",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-27",
+    "type": "unknown",
+    "notes": "Takara Tomy Basic Line blade from random booster BX-27 Sphinx Cowl Select (released 2024-02-22). Official JP copy: all three slots use new blade スフィンクスカウル in different customizations and special colors; featured combo スフィンクスカウル9-80GN pairs a nine-blade rush-shaped blade with a matching ratchet to disperse and rebound opponent attacks. Cited pages do not print Attack/Defense/Stamina/Balance; type left unknown. Hasbro English product name on shop slug: Cowl Sphinx 9-80GN (item G1530).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx27.html",
+        "label": "Takara Tomy BX-27 Sphinx Cowl Select",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-27 ランダムブースター)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-cowl-sphinx-9-80-gn-booster-pack-set/G1530",
+        "label": "Hasbro Cowl Sphinx 9-80GN booster (G1530)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "tyranno-beat",
+    "name": "Tyranno Beat",
+    "name_ja": "ティラノビート",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-31",
+    "type": "unknown",
+    "notes": "Takara Tomy Basic Line blade; prize Bey of random booster BX-31 Vol.3 (released 2024-04-27). Official JP copy: rare is ティラノビート4-70Q; a diagonally cut bouncing bit plus a thick serrated eight-blade lets the Bey move irregularly around the stadium for unpredictable hits. Cited pages do not print Attack/Defense/Stamina/Balance on the blade alone; type left unknown. Hasbro English product name on shop slug: Beat Tyranno (item G1542 dual pack).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx31.html",
+        "label": "Takara Tomy BX-31 Random Booster Vol.3",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-31 ランダムブースター)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-beat-tyranno-4-70-q-and-knife-shinobi-4-80-hn-dual-pack-set/G1542",
+        "label": "Hasbro Beat Tyranno 4-70Q dual pack (G1542)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "shinobi-shadow",
+    "name": "Shinobi Shadow",
+    "name_ja": "シノビシャドウ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-05",
+    "type": "unknown",
+    "notes": "Takara Tomy Unique Line blade from random booster UX-05 Shinobi Shadow Select (released 2024-05-18). Official JP copy: Unique Line puts more blade metal on the outer rim; all three slots use new blade シノビシャドウ; featured combo シノビシャドウ1-80MN pairs a smooth-shaped blade with a metal-tipped high-stability bit, specialized for slipping attacks. Cited pages do not print Attack/Defense/Stamina/Balance; type left unknown. Hasbro English product name on shop slug: Shadow Shinobi 1-80MN (item G1751).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux05.html",
+        "label": "Takara Tomy UX-05 Shinobi Shadow Select",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Unique Line)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-shadow-shinobi-1-80-mn-ux-starter-pack-top-and-launcher/G1751",
+        "label": "Hasbro Shadow Shinobi 1-80MN UX starter (G1751)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "black-shell",
+    "name": "Black Shell",
+    "name_ja": "ブラックシェル",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-35",
+    "type": "defense",
+    "notes": "Takara Tomy Basic Line blade; prize Bey of random booster BX-35 Vol.4 (released 2024-07-13). Official JP copy: rare is ブラックシェル4-60D; downward defensive blades plus a low ratchet and a hard-to-push-out bit, described as excelling at enduring low-position attacks. Defense label is from that official combo description. Hasbro English product name on shop slug: Obsidian Shell 4-60D (item G1533).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx35.html",
+        "label": "Takara Tomy BX-35 Random Booster Vol.4",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-35 ランダムブースター)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-obsidian-shell-4-60-d-booster-pack-set/G1533",
+        "label": "Hasbro Obsidian Shell 4-60D booster (G1533)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lightning-l-drago",
+    "name": "Lightning L-Drago",
+    "name_ja": "ライトニングエルドラゴ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-00",
+    "type": "attack",
+    "notes": "Takara Tomy Basic Line left-spin blade from BX-00 random booster Lightning L-Drago 1-60F (released 2024-09-14). Official JP copy: Metal Fight Beyblade Lightning L-Drago in Beyblade X form; pack contains one of two variants — Upper type (strong upper-attack) or Rush type (rush blades in three places). Left-spin blade with high-attack parts, described as strong against right-spin opponents; needs a left-spin launcher. Attack label is from that official product description. Bit F in the product name is the existing Flat bit, not duplicated here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-ld.html",
+        "label": "Takara Tomy BX-00 Lightning L-Drago 1-60F random booster",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BXG-07_manual.pdf",
+        "label": "Takara Tomy BXG-07 / BX-00 Lightning L-Drago manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-00 ランダムブースター ライトニングエルドラゴ)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "whale-wave",
+    "name": "Whale Wave",
+    "name_ja": "ホエールウェーブ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-36",
+    "type": "unknown",
+    "notes": "Takara Tomy Basic Line blade from random booster BX-36 Whale Wave Select (released 2024-09-14). Official JP copy: all three slots use new blade ホエールウェーブ; featured combo ホエールウェーブ5-80E pairs a smash-oriented blade with a guided bit whose tip lifts during X Dash, described as good at slamming the opponent from above. Cited pages do not print Attack/Defense/Stamina/Balance on the blade alone; type left unknown. Hasbro English product name on shop slug: Tide Whale 5-80E (item G1669).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx36.html",
+        "label": "Takara Tomy BX-36 Whale Wave Select",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-36 ランダムブースター)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-tide-whale-5-80-e-booster-pack-set/G1669",
+        "label": "Hasbro Tide Whale 5-80E booster (G1669)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ghost-circle",
+    "name": "Ghost Circle",
+    "name_ja": "ゴーストサークル",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-12",
+    "type": "unknown",
+    "notes": "Takara Tomy Unique Line blade; prize Bey of random booster UX-12 Vol.5 (official page date 2024-12-28). Official JP copy: rare is ゴーストサークル0-80GB; small-diameter 0-blade plus matching ratchet reduces stamina loss from hits, specialized for spinning a long time regardless of opponent type. Cited pages do not print Attack/Defense/Stamina/Balance on the blade alone; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux12.html",
+        "label": "Takara Tomy UX-12 Random Booster Vol.5",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-12 ランダムブースター)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "shelter-drake",
+    "name": "Shelter Drake",
+    "name_ja": "シェルタードレイク",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-39",
+    "type": "balance",
+    "notes": "Takara Tomy Basic Line blade from random booster BX-39 Shelter Drake Select (official page date 2025-02-15). Official JP copy: all three slots use new blade シェルタードレイク; featured combo シェルタードレイク7-80GP combines slip-away defense with high-centrifugal stamina and is labeled a Balance Type Beyblade. Balance label is from that official product description.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx39.html",
+        "label": "Takara Tomy BX-39 Shelter Drake Select",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-39 ランダムブースター)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "clock-mirage",
+    "name": "Clock Mirage",
+    "name_ja": "クロックミラージュ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-16",
+    "type": "unknown",
+    "notes": "Takara Tomy Unique Line blade from random booster UX-16 Clock Mirage Select (official page date 2025-10-11). Official JP copy: one of three colors of クロックミラージュ9-65B; circular 60-blade plus a low ratchet and high-stamina bit, specialized for long spin. Official note: blade クロックミラージュ can only be attached to simple-type ratchets. Cited pages do not print Attack/Defense/Stamina/Balance on the blade alone; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux16.html",
+        "label": "Takara Tomy UX-16 Clock Mirage Select",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-16 ランダムブースター)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "heavens-ring",
+    "name": "Heavens Ring",
+    "name_ja": "ヘブンズリング",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-50",
+    "type": "defense",
+    "notes": "Takara Tomy Basic Line Expand Blade; prize Bey of random booster BX-50 Vol.11 (official page date 2026-07-11). Official JP copy: rare is ヘブンズリング0-80DS; Basic Line Expand Blade joins the blade metal at the center for higher rigidity/stability. Circular impact-dispersing blade plus a bit that holds posture at stadium center, described as a Defense Type Beyblade that can take hits from any direction. Defense label is from that official product description.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx50.html",
+        "label": "Takara Tomy BX-50 Random Booster Vol.11",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Basic Line Expand Blade)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "unicorn-delta",
+    "name": "Unicorn Delta",
+    "name_ja": "ユニコーンデルタ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-17",
+    "type": "balance",
+    "notes": "Takara Tomy Custom Line over-blade; prize Bey of random booster CX-17 Vol.10 (official page date 2026-04-25). Official JP copy: rare is ユニコーンデルタPO3-60GU; assembling the over-blade in different orientations switches Attack / Balance / Defense styles, described as a Balance Type Beyblade that can cover many matchups. Balance label is from that official product description. PO / GU letters are printed in the prize product name; cited pages do not expand those abbreviations, so they are not invented here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx17.html",
+        "label": "Takara Tomy CX-17 Random Booster Vol.10",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Custom Line / Expand Blade)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-5-80",
+    "name": "5-80",
+    "name_ja": "5-80",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "BX-16",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in random-booster featured combos BX-16 Viper Tail 5-80O and BX-24 Wyvern Gale 5-80GB. Official pages name it only as the 5-80 segment of those product names. Ratchets are not a printed Attack/Defense/Stamina/Balance type; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx16.html",
+        "label": "Takara Tomy BX-16 product page (5-80 in ヴァイパーテイル5-80O)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx24.html",
+        "label": "Takara Tomy BX-24 product page (5-80 in ワイバーンゲイル5-80GB)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-9-80",
+    "name": "9-80",
+    "name_ja": "9-80",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "BX-27",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in random-booster featured combo BX-27 Sphinx Cowl 9-80GN. Official JP copy pairs the nine-blade rush blade with this ratchet. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx27.html",
+        "label": "Takara Tomy BX-27 product page (9-80 in スフィンクスカウル9-80GN)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Ratchet role)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-4-70",
+    "name": "4-70",
+    "name_ja": "4-70",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "BX-31",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in random-booster prize combo BX-31 Tyranno Beat 4-70Q. Official pages name it only as the 4-70 segment of the product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx31.html",
+        "label": "Takara Tomy BX-31 product page (4-70 in ティラノビート4-70Q)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-31)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-1-80",
+    "name": "1-80",
+    "name_ja": "1-80",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-05",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in random-booster featured combo UX-05 Shinobi Shadow 1-80MN. Official pages name it only as the 1-80 segment of the product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux05.html",
+        "label": "Takara Tomy UX-05 product page (1-80 in シノビシャドウ1-80MN)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-05)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-0-80",
+    "name": "0-80",
+    "name_ja": "0-80",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-12",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in random-booster prize combos UX-12 Ghost Circle 0-80GB and BX-50 Heavens Ring 0-80DS. UX-12 JP copy describes the 0-blade plus this ratchet as reducing stamina loss from hits. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux12.html",
+        "label": "Takara Tomy UX-12 product page (0-80 in ゴーストサークル0-80GB)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx50.html",
+        "label": "Takara Tomy BX-50 product page (0-80 in ヘブンズリング0-80DS)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-gear-ball",
+    "name": "GB (Gear Ball)",
+    "name_ja": "GB（ギヤボール）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "BX-24",
+    "type": "unknown",
+    "notes": "Shaft-tip bit. Takara Tomy Plus One Bit campaign expands GB as ギヤボール (Gear Ball). First listed on random-booster prize BX-24 Wyvern Gale 5-80GB; BX-24 JP copy describes a large spherical bit tip that can counter while holding posture. Also used on UX-12 Ghost Circle 0-80GB. Cited pages do not print Attack/Defense/Stamina/Balance for GB; type left unknown. Do not confuse with assist-blade letter G.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news260615_6.html",
+        "label": "Takara Tomy Plus One Bit campaign (GB/ギヤボール)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx24.html",
+        "label": "Takara Tomy BX-24 product page (5-80GB)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux12.html",
+        "label": "Takara Tomy UX-12 product page (0-80GB)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-hells",
+    "name": "Hells",
+    "name_ja": "ヘルズ",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-05",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named ヘルズ on the official CX CUP parts list. First listed on random-booster prize CX-05 Hells Reaper T 4-70K (ヘルズリーパーT4-70K). Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip ヘルズ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx05.html",
+        "label": "Takara Tomy CX-05 Random Booster Vol.6 (ヘルズリーパーT4-70K)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-fox",
+    "name": "Fox",
+    "name_ja": "フォックス",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-06",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named フォックス on the official CX CUP parts list. First listed on random booster CX-06 Fox Brush Select; official JP copy names new blade フォックスブラッシュJ and featured combo フォックスブラッシュJ9-70GR. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip フォックス)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx06.html",
+        "label": "Takara Tomy CX-06 Fox Brush Select",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-cerberus",
+    "name": "Cerberus",
+    "name_ja": "ケルベロス",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-08",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named ケルベロス on the official CX CUP parts list. First listed on random-booster prize CX-08 Cerberus Flame W 5-80WB (ケルベロスフレイムW5-80WB). Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip ケルベロス)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx08.html",
+        "label": "Takara Tomy CX-08 Random Booster Vol.7 (ケルベロスフレイムW5-80WB)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-turn",
+    "name": "T (Turn)",
+    "name_ja": "T（ターン）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-05",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands T as ターン (Turn) under アシストブレード. Appears as the T in random-booster prize CX-05 Hells Reaper T 4-70K. Type left unknown. Do not confuse with bit T (Taper).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade T/Turn)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx05.html",
+        "label": "Takara Tomy CX-05 product page (T in ヘルズリーパーT4-70K)",
+        "kind": "official"
+      }
+    ]
   }
 ]

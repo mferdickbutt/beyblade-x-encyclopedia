@@ -2,7 +2,7 @@
 
 Slice repo for structured Beyblade X parts with source links.
 
-This is **slice 1** for verification: a sourced starter set of X-generation parts, **not** a complete catalog of every blade, ratchet, bit, or lock chip.
+This is **not** a complete catalog of every blade, ratchet, bit, or lock chip. Entries are added in sourced slices.
 
 ## Data
 
@@ -27,7 +27,7 @@ Each object:
 | `name_ja` | string | Japanese name from an official page, or `"unknown"` |
 | `part_type` | string | `blade` \| `ratchet` \| `bit` \| `lock_chip` \| `other` |
 | `generation` | string | Always `"Beyblade X"` in this slice |
-| `product_code` | string | First Takara Tomy product code that includes the part (e.g. `BX-01`), or `"unknown"` |
+| `product_code` | string | First Takara Tomy product code that includes the part (e.g. `BX-14`), or `"unknown"` |
 | `type` | string | `attack` \| `defense` \| `stamina` \| `balance` \| `unknown` |
 | `notes` | string | Sourced facts only; no invented stats |
 | `sources` | array | At least one `{ "url", "label", "kind" }` |
@@ -46,9 +46,7 @@ Official reminder: Takara Tomy’s beginner guide states Beyblade **type is dete
 
 ## Coverage (slice 1)
 
-Counts change as the file grows; run `./scripts/verify.sh` for the live total.
-
-This slice mixes:
+Starter set of X-generation parts from Basic / Unique / Custom Line starters and boosters (not Random Boosters).
 
 - **Blades** — launch Basic Line (BX-01–BX-04 and later BX starters/boosters) plus Unique Line UX-01–UX-03
 - **Ratchets** — `3-60`, `4-60`, `4-80`, `3-80`, `5-60`, `9-60`, `1-60`
@@ -56,15 +54,30 @@ This slice mixes:
 - **Lock chips** — Custom Line `Dran`, `Wizard`, `Perseus` (CX CUP list + CX-01–CX-03)
 - **Other** — Custom Line assist blade `S` (Slash)
 
-Not in this slice: later BX/UX/CX waves, most random-booster parts, over-blades, metal blades, launchers, stadiums.
+## Coverage (slice 2 — Random Booster)
+
+Adds **parts that debut on Takara Tomy Random Booster products** (numbered Vol. packs, Select packs, and BX-00 Lightning L-Drago). Existing slice 1 rows are kept; new rows use new `id`s.
+
+- **Blades** — prize / featured blades named on official booster pages: Shark Edge (BX-14 Vol.1), Viper Tail (BX-16 Select), Wyvern Gale (BX-24 Vol.2), Sphinx Cowl (BX-27 Select), Tyranno Beat (BX-31 Vol.3), Shinobi Shadow (UX-05 Select), Black Shell (BX-35 Vol.4), Lightning L-Drago (BX-00), Whale Wave (BX-36 Select), Ghost Circle (UX-12 Vol.5), Shelter Drake (BX-39 Select), Clock Mirage (UX-16 Select), Heavens Ring (BX-50 Vol.11), Unicorn Delta (CX-17 Vol.10 over-blade)
+- **Ratchets** — `5-80`, `9-80`, `4-70`, `1-80`, `0-80` as printed in those prize combos
+- **Bits** — `GB` Gear Ball (official campaign expansion; first listed on BX-24)
+- **Lock chips** — Custom Line `Hells`, `Fox`, `Cerberus` (CX CUP list + CX-05 / CX-06 / CX-08 random boosters)
+- **Other** — Custom Line assist blade `T` (Turn) from CX-05 prize naming
+
+Sources: Takara Tomy lineup / product pages and manuals first; Hasbro shop URLs only as English-name cross-refs when the slug matches. Bit letters without an official Japanese expansion are **not** added. No wiki-invented stats.
 
 ## How to extend
 
-1. Add an object to `data/parts.json` (keep `id` unique).
+1. Add an object to `data/parts.json` (keep `id` unique; do not overwrite existing rows).
 2. Cite at least one URL. Prefer:
-   - [Takara Tomy lineup](https://beyblade.takaratomy.co.jp/beyblade-x/lineup/)
+   - [Takara Tomy lineup](https://beyblade.takaratomy.co.jp/beyblade-x/lineup/) (filter **ランダムブースター**)
    - [Takara Tomy manuals](https://beyblade.takaratomy.co.jp/beyblade-x/manual/)
    - [Takara Tomy Gear Structure](https://beyblade.takaratomy.co.jp/gear/)
+   - [Takara Tomy CX CUP parts list](https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html) for Custom Line lock / assist / over-blade letters
    - [Hasbro shop](https://shop.hasbro.com/)
 3. If a Japanese name, product code, or type is not on those pages, store `"unknown"`.
 4. Run `./scripts/verify.sh`.
+
+## Next slice
+
+Still out of catalog: remaining Random Booster prize/colorway parts (e.g. CX-18 Brachio Whip Select, CX-19 Croco Tread Select, UX-18 Mummy Curse, BX-48 reprints), later BX/UX/CX starters, metal blades, over-blade letters beyond Unicorn Delta, launchers, and stadiums. A natural follow-up is **later Unique/Custom Line starters** or the remaining Select-pack blades with the same sourced-only rules.
