@@ -76,18 +76,30 @@ Adds **parts that debut or belong on Takara Tomy Unique Line (UX-##) packs** aft
 
 Sources: Takara Tomy Unique Line / Expand Blade lineup, product, and manual pages first; Hasbro shop URLs only as English-name cross-refs when the slug matches. Bit letters without an official Japanese expansion are **not** added. No wiki-invented stats.
 
+## Coverage (slice 4 — Custom Line starters + remaining CX Select-pack blades)
+
+Adds **Custom Line starter/booster main blades and remaining CX Select-pack blades** after the CX lock chips / assist S and T / Unicorn Delta rows already in slices 1–2. Existing rows are kept; new rows use new `id`s.
+
+- **Blades** — Custom Line main blades named on the official CX CUP list and product pages: Brave (CX-01), Arc (CX-02), Dark (CX-03), Blast (CX-07), Eclipse (CX-09), Hunt (CX-10), Brush (CX-06 Fox Brush Select); plus Select-pack featured blades Brachio Whip (CX-18) and Croco Tread (CX-19)
+- **Lock chips** — Custom Line `Pegasus`, `Sol`, `Wolf` (CX CUP list + CX-07 / CX-09 / CX-10)
+- **Other** — Custom Line assist blades `R` (Round), `B` (Bumper), `J` (Jaggy), `A` (Assault), `D` (Dual), `F` (Free)
+- **Ratchets** — `6-60`, `4-55`, `6-80`, `0-60`, `5-50` as printed in those CX combos
+- **Bits** — `V` Vortex (official campaign expansion; first listed on CX-01)
+
+Sources: Takara Tomy Custom Line lineup / product pages and the CX CUP parts list first; Plus One Bit campaign pages for official bit-letter expansions. Bit letters without an official Japanese expansion (e.g. LO, Tr, TK, GR, Nr) are **not** added. No wiki-invented stats.
+
 ## How to extend
 
 1. Add an object to `data/parts.json` (keep `id` unique; do not overwrite existing rows).
 2. Cite at least one URL. Prefer:
-   - [Takara Tomy lineup](https://beyblade.takaratomy.co.jp/beyblade-x/lineup/) (filter **ユニークライン** / **ランダムブースター**)
+   - [Takara Tomy lineup](https://beyblade.takaratomy.co.jp/beyblade-x/lineup/) (filter **カスタムライン** / **ユニークライン** / **ランダムブースター**)
    - [Takara Tomy manuals](https://beyblade.takaratomy.co.jp/beyblade-x/manual/)
    - [Takara Tomy Gear Structure](https://beyblade.takaratomy.co.jp/gear/)
-   - [Takara Tomy CX CUP parts list](https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html) for Custom Line lock / assist / over-blade letters
+   - [Takara Tomy CX CUP parts list](https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html) for Custom Line lock / main / assist / over-blade letters
    - [Hasbro shop](https://shop.hasbro.com/)
 3. If a Japanese name, product code, or type is not on those pages, store `"unknown"`.
 4. Run `./scripts/verify.sh`.
 
 ## Next slice
 
-Still out of catalog: Custom Line starters and remaining CX Select-pack blades (e.g. CX-07 Pegasus Blast, CX-09 Sol Eclipse, CX-10 Wolf Hunt, CX-18 Brachio Whip Select, CX-19 Croco Tread Select), later BX starters, metal blades, over-blade letters beyond Unicorn Delta, launchers, and stadiums. A natural follow-up is **Custom Line starters and remaining CX Select-pack blades** with the same sourced-only rules.
+Still out of catalog: later Custom Line packs (CX-11 Emperor Might through CX-16 Start Dash Set C), remaining CX CUP lock chips / main blades / metal blades (Fortress, Blitz, Rage) / over-blade letters (B Break, F Flow, G Guard) / assist letters, later BX starters, launchers, and stadiums. A natural follow-up is **later Custom Line packs (CX-11–CX-16) plus remaining CX CUP metal and over-blade letters** with the same sourced-only rules.

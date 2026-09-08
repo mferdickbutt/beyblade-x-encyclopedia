@@ -1895,5 +1895,578 @@
         "kind": "official"
       }
     ]
+  },
+  {
+    "id": "brave",
+    "name": "Brave",
+    "name_ja": "ブレイブ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-01",
+    "type": "attack",
+    "notes": "Takara Tomy Custom Line main blade named ブレイブ on the official CX CUP parts list. First listed on starter CX-01 Dran Brave S6-60V (lock chip Dran + main blade Brave + assist blade S/Slash + ratchet 6-60 + bit V; official page date 2025-03-29). Official JP copy: Custom Line blades disassemble into three parts; this blade uses downforce to raise attack performance, paired with a bit that can attack at high speed when spinning right, improving acceleration and knock-away. Attack label is from that official blade copy, not a separate printed type badge.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (main blade ブレイブ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx01.html",
+        "label": "Takara Tomy CX-01 product page (ドランブレイブS6-60V)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-01)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "arc",
+    "name": "Arc",
+    "name_ja": "アーク",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-02",
+    "type": "unknown",
+    "notes": "Takara Tomy Custom Line main blade named アーク on the official CX CUP parts list. First listed on starter CX-02 Wizard Arc R4-55LO (lock chip Wizard + main blade Arc + assist blade R/Round + ratchet 4-55 + bit LO; official page date 2025-03-29). Official JP copy: Custom Line three-part blade that generates strong centrifugal force; stock combo pairs it with a short ratchet and bit and is described as excelling at keeping stable spin. Cited pages do not print Attack/Defense/Stamina/Balance on this main blade alone; type left unknown. Product-name letters LO are not expanded on cited pages.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (main blade アーク)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx02.html",
+        "label": "Takara Tomy CX-02 product page (ウィザードアークR4-55LO)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-02)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "dark",
+    "name": "Dark",
+    "name_ja": "ダーク",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-03",
+    "type": "defense",
+    "notes": "Takara Tomy Custom Line main blade named ダーク on the official CX CUP parts list. First listed on booster CX-03 Perseus Dark B6-80W (lock chip Perseus + main blade Dark + assist blade B/Bumper + ratchet 6-80 + bit W; official page date 2025-03-29). Official JP copy: Custom Line blade with both impact absorption and counter performance; stock combo with a hard-to-tilt bit is described as shutting out attacks from any direction and draining the opponent's stamina. Defense label is from that official product description, not a separate printed type badge.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (main blade ダーク)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx03.html",
+        "label": "Takara Tomy CX-03 product page (ペルセウスダークB6-80W)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-03)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "blast",
+    "name": "Blast",
+    "name_ja": "ブラスト",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-07",
+    "type": "attack",
+    "notes": "Takara Tomy Custom Line main blade named ブラスト on the official CX CUP parts list. First listed on starter CX-07 Pegasus Blast ATr (lock chip Pegasus + main blade Blast + assist blade A/Assault + ratchet-integrated bit Tr; official page date 2025-07-19). Official JP copy: painted-metal three-blade stack that delivers heavy hits; stock combo uses a ratchet-integrated bit whose tip changes with spin speed so the Bey can re-accelerate and attack hard in the late game. Attack label is from that official product description. Cited pages do not expand the Tr abbreviation, so it is not invented here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (main blade ブラスト)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx07.html",
+        "label": "Takara Tomy CX-07 product page (ペガサスブラストATr)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-07)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "eclipse",
+    "name": "Eclipse",
+    "name_ja": "エクリプス",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-09",
+    "type": "balance",
+    "notes": "Takara Tomy Custom Line main blade named エクリプス on the official CX CUP parts list. First listed on starter CX-09 Sol Eclipse D5-70TK (lock chip Sol + main blade Eclipse + assist blade D/Dual + ratchet 5-70 + bit TK; official page date 2025-09-27). Official JP copy: reversible main blade and assist blade used on both faces, plus a height-changing bit, for eight mode changes in one Bey; described as a Balance Type Beyblade. Balance label is from that official product description. Cited pages do not expand the TK abbreviation, so it is not invented here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (main blade エクリプス)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx09.html",
+        "label": "Takara Tomy CX-09 product page (ソルエクリプスD5-70TK)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-09)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "hunt",
+    "name": "Hunt",
+    "name_ja": "ハント",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-10",
+    "type": "stamina",
+    "notes": "Takara Tomy Custom Line main blade named ハント on the official CX CUP parts list. First listed on booster CX-10 Wolf Hunt F0-60DB (lock chip Wolf + main blade Hunt + assist blade F/Free + ratchet 0-60 + bit DB; official page date 2025-11-01). Official JP copy: free-spinning blades and multiple circular parts to deflect hits, with a striking blade that drains the opponent's stamina; described as a Stamina Type Beyblade. Stamina label is from that official product description.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (main blade ハント)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx10.html",
+        "label": "Takara Tomy CX-10 product page (ウルフハントF0-60DB)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-10)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "brush",
+    "name": "Brush",
+    "name_ja": "ブラッシュ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-06",
+    "type": "attack",
+    "notes": "Takara Tomy Custom Line main blade named ブラッシュ on the official CX CUP parts list. Featured Select-pack blade of random booster CX-06 Fox Brush Select (official page date 2025-05-17). Official JP copy: all three slots set 新ブレード「フォックスブラッシュJ」; featured combo フォックスブラッシュJ9-70GR is a blade with both wide-area rapid hits and strong attacks, paired with a bit that makes repeated X Dashes easier, enabling a piled-on assault. Attack label is from that official featured-combo description. Cited pages do not expand the GR abbreviation, so it is not invented here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (main blade ブラッシュ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx06.html",
+        "label": "Takara Tomy CX-06 Fox Brush Select",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-06)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "brachio-whip",
+    "name": "Brachio Whip",
+    "name_ja": "ブラキオウィップ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-18",
+    "type": "stamina",
+    "notes": "Takara Tomy Custom Line featured blade of random booster CX-18 Brachio Whip Select (official page date 2026-06-13). Official JP copy: three colors of ブラキオウィップOW5-70Nr; thick circular outer-weighted customized blade plus a bit that prevents stamina loss, described as a Stamina Type Beyblade with high endurance. Stamina label is from that official product description. OW / Nr letters are printed in the featured product name; cited official pages do not expand those abbreviations or split this Select-pack name onto the CX CUP lock-chip / main-blade lists, so those letters are not invented here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx18.html",
+        "label": "Takara Tomy CX-18 Brachio Whip Select",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-18)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Custom Line)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "croco-tread",
+    "name": "Croco Tread",
+    "name_ja": "クロコトレッド",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-19",
+    "type": "defense",
+    "notes": "Takara Tomy Custom Line featured blade of random booster CX-19 Croco Tread Select (official page date 2026-09-12). Official JP copy: three colors of クロコトレッドTQ5-50GN; rapid-hit blade that disperses impact from any direction, paired with a short ratchet so the Bey can take attacks at a low center of gravity; described as a Defense Type Beyblade. Defense label is from that official product description. TQ letters are printed in the featured product name; cited official pages do not expand those abbreviations or split this Select-pack name onto the CX CUP lock-chip / main-blade lists, so those letters are not invented here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx19.html",
+        "label": "Takara Tomy CX-19 Croco Tread Select",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-19)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Custom Line)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-pegasus",
+    "name": "Pegasus",
+    "name_ja": "ペガサス",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-07",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named ペガサス on the official CX CUP parts list. First listed on starter CX-07 Pegasus Blast ATr (ペガサスブラストATr). Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip ペガサス)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx07.html",
+        "label": "Takara Tomy CX-07 product page (ペガサスブラストATr)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-sol",
+    "name": "Sol",
+    "name_ja": "ソル",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-09",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named ソル on the official CX CUP parts list. First listed on starter CX-09 Sol Eclipse D5-70TK (ソルエクリプスD5-70TK). Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip ソル)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx09.html",
+        "label": "Takara Tomy CX-09 product page (ソルエクリプスD5-70TK)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-wolf",
+    "name": "Wolf",
+    "name_ja": "ウルフ",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-10",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named ウルフ on the official CX CUP parts list. First listed on booster CX-10 Wolf Hunt F0-60DB (ウルフハントF0-60DB). Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip ウルフ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx10.html",
+        "label": "Takara Tomy CX-10 product page (ウルフハントF0-60DB)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-round",
+    "name": "R (Round)",
+    "name_ja": "R（ラウンド）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-02",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands R as ラウンド (Round) under アシストブレード. Appears as the R in starter CX-02 Wizard Arc R4-55LO. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade R/Round)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx02.html",
+        "label": "Takara Tomy CX-02 product page (R in ウィザードアークR4-55LO)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-bumper",
+    "name": "B (Bumper)",
+    "name_ja": "B（バンパー）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-03",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands B as バンパー (Bumper) under アシストブレード. Appears as the B in booster CX-03 Perseus Dark B6-80W. Type left unknown. Do not confuse with bit B (Ball) or over-blade letter B.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade B/Bumper)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx03.html",
+        "label": "Takara Tomy CX-03 product page (B in ペルセウスダークB6-80W)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-jaggy",
+    "name": "J (Jaggy)",
+    "name_ja": "J（ジャギー）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-06",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands J as ジャギー (Jaggy) under アシストブレード. Appears as the J in CX-06 Fox Brush Select featured naming フォックスブラッシュJ. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade J/Jaggy)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx06.html",
+        "label": "Takara Tomy CX-06 product page (J in フォックスブラッシュJ)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-assault",
+    "name": "A (Assault)",
+    "name_ja": "A（アサルト）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-07",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands A as アサルト (Assault) under アシストブレード. Appears as the A in starter CX-07 Pegasus Blast ATr. Type left unknown. Do not confuse with Unique Line bit letter A printed in other product names.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade A/Assault)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx07.html",
+        "label": "Takara Tomy CX-07 product page (A in ペガサスブラストATr)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-dual",
+    "name": "D (Dual)",
+    "name_ja": "D（デュアル）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-09",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands D as デュアル (Dual) under アシストブレード. Appears as the D in starter CX-09 Sol Eclipse D5-70TK. Official CX-09 copy: reversible main blade and assist blade usable on both faces. Type left unknown. Do not confuse with bit letter D.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade D/Dual)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx09.html",
+        "label": "Takara Tomy CX-09 product page (D in ソルエクリプスD5-70TK)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-free",
+    "name": "F (Free)",
+    "name_ja": "F（フリー）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-10",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands F as フリー (Free) under アシストブレード. Appears as the F in booster CX-10 Wolf Hunt F0-60DB. Official CX-10 copy mentions フリー回転刃 (free-spinning blades). Type left unknown. Do not confuse with bit F (Flat).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade F/Free)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx10.html",
+        "label": "Takara Tomy CX-10 product page (F in ウルフハントF0-60DB)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-6-60",
+    "name": "6-60",
+    "name_ja": "6-60",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "CX-01",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Custom Line starter CX-01 Dran Brave S6-60V. Official pages name it only as the 6-60 segment of the product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx01.html",
+        "label": "Takara Tomy CX-01 product page (6-60 in ドランブレイブS6-60V)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-01)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-4-55",
+    "name": "4-55",
+    "name_ja": "4-55",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "CX-02",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Custom Line starter CX-02 Wizard Arc R4-55LO. Official pages name it only as the 4-55 segment of the product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx02.html",
+        "label": "Takara Tomy CX-02 product page (4-55 in ウィザードアークR4-55LO)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-02)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-6-80",
+    "name": "6-80",
+    "name_ja": "6-80",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "CX-03",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Custom Line booster CX-03 Perseus Dark B6-80W. Official pages name it only as the 6-80 segment of the product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx03.html",
+        "label": "Takara Tomy CX-03 product page (6-80 in ペルセウスダークB6-80W)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-03)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-0-60",
+    "name": "0-60",
+    "name_ja": "0-60",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "CX-10",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Custom Line booster CX-10 Wolf Hunt F0-60DB. Official pages name it only as the 0-60 segment of the product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx10.html",
+        "label": "Takara Tomy CX-10 product page (0-60 in ウルフハントF0-60DB)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-10)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-5-50",
+    "name": "5-50",
+    "name_ja": "5-50",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "CX-19",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Custom Line random-booster featured combo CX-19 Croco Tread TQ5-50GN. Official pages name it only as the 5-50 segment of that product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx19.html",
+        "label": "Takara Tomy CX-19 product page (5-50 in クロコトレッドTQ5-50GN)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-19)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-vortex",
+    "name": "V (Vortex)",
+    "name_ja": "V（ボルテックス）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "CX-01",
+    "type": "unknown",
+    "notes": "Shaft-tip bit. Takara Tomy Plus One Bit campaign expands V as ボルテックス (Vortex). First listed on Custom Line starter CX-01 Dran Brave S6-60V. Official CX-01 copy describes a bit that can attack at high speed when spinning right. Cited pages do not print Attack/Defense/Stamina/Balance for V; type left unknown. Do not confuse with assist-blade letter V (Vertical).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news251114.html",
+        "label": "Takara Tomy Plus One Bit campaign (V/ボルテックス)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx01.html",
+        "label": "Takara Tomy CX-01 product page (S6-60V)",
+        "kind": "official"
+      }
+    ]
   }
 ]
