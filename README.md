@@ -66,11 +66,21 @@ Adds **parts that debut on Takara Tomy Random Booster products** (numbered Vol. 
 
 Sources: Takara Tomy lineup / product pages and manuals first; Hasbro shop URLs only as English-name cross-refs when the slug matches. Bit letters without an official Japanese expansion are **not** added. No wiki-invented stats.
 
+## Coverage (slice 3 — Unique Line / UX)
+
+Adds **parts that debut or belong on Takara Tomy Unique Line (UX-##) packs** after the UX-01–UX-03 / UX-05 / UX-12 / UX-16 rows already in slices 1–2. Existing rows are kept; new rows use new `id`s.
+
+- **Blades** — Unique Line starters, boosters, sets, and UX random-booster prizes named on official pages: Leon Crest (UX-06), Phoenix Rudder (UX-07), Silver Wolf (UX-08), Samurai Saber (UX-09), Knight Mail and Ptera Swing (UX-10), Impact Drake (UX-11), Golem Rock (UX-13), Scorpio Spear (UX-14), Shark Scale (UX-15), Meteor Dragoon (UX-17), Mummy Curse (UX-18 Vol.8), Bullet Griffon (UX-19 Expand Blade), Glory Valkyrie (UX-20 Expand Blade), Hells Nether (UX-21 Expand Blade), Aero Pegasus (UX-00)
+- **Ratchets** — `3-70`, `5-70`, `7-60`, `9-70`, `2-70`, `3-85`, `7-70`, `0-70`, `4-50`, `9-65`, `7-55` as printed in those UX combos / the UX-10 manual
+- **Bits** — `W` Wedge (official campaign expansion; first listed on UX-18)
+
+Sources: Takara Tomy Unique Line / Expand Blade lineup, product, and manual pages first; Hasbro shop URLs only as English-name cross-refs when the slug matches. Bit letters without an official Japanese expansion are **not** added. No wiki-invented stats.
+
 ## How to extend
 
 1. Add an object to `data/parts.json` (keep `id` unique; do not overwrite existing rows).
 2. Cite at least one URL. Prefer:
-   - [Takara Tomy lineup](https://beyblade.takaratomy.co.jp/beyblade-x/lineup/) (filter **ランダムブースター**)
+   - [Takara Tomy lineup](https://beyblade.takaratomy.co.jp/beyblade-x/lineup/) (filter **ユニークライン** / **ランダムブースター**)
    - [Takara Tomy manuals](https://beyblade.takaratomy.co.jp/beyblade-x/manual/)
    - [Takara Tomy Gear Structure](https://beyblade.takaratomy.co.jp/gear/)
    - [Takara Tomy CX CUP parts list](https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html) for Custom Line lock / assist / over-blade letters
@@ -80,4 +90,4 @@ Sources: Takara Tomy lineup / product pages and manuals first; Hasbro shop URLs 
 
 ## Next slice
 
-Still out of catalog: remaining Random Booster prize/colorway parts (e.g. CX-18 Brachio Whip Select, CX-19 Croco Tread Select, UX-18 Mummy Curse, BX-48 reprints), later BX/UX/CX starters, metal blades, over-blade letters beyond Unicorn Delta, launchers, and stadiums. A natural follow-up is **later Unique/Custom Line starters** or the remaining Select-pack blades with the same sourced-only rules.
+Still out of catalog: Custom Line starters and remaining CX Select-pack blades (e.g. CX-07 Pegasus Blast, CX-09 Sol Eclipse, CX-10 Wolf Hunt, CX-18 Brachio Whip Select, CX-19 Croco Tread Select), later BX starters, metal blades, over-blade letters beyond Unicorn Delta, launchers, and stadiums. A natural follow-up is **Custom Line starters and remaining CX Select-pack blades** with the same sourced-only rules.
