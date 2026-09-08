@@ -1259,5 +1259,641 @@
         "kind": "official"
       }
     ]
+  },
+  {
+    "id": "leon-crest",
+    "name": "Leon Crest",
+    "name_ja": "レオンクレスト",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-06",
+    "type": "defense",
+    "notes": "Takara Tomy Unique Line blade from booster UX-06 Leon Crest 7-60GN (released 2024-08-10). Official JP copy: Unique Line puts more blade metal on the outer rim; wall-like blade and ratchet specialized for repelling attacks from any direction. Defense label is from that official product description. Hasbro English product name on shop slug: Crest Leon 7-60GN (item G1685 dual pack with Cowl Sphinx).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux06.html",
+        "label": "Takara Tomy UX-06 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Unique Line / UX-06)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-ca/product/beyblade-x-cowl-sphinx-1-80-gf-and-crest-leon-7-60-gn-dual-pack-set/G1685",
+        "label": "Hasbro Cowl Sphinx & Crest Leon dual pack (G1685)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "phoenix-rudder",
+    "name": "Phoenix Rudder",
+    "name_ja": "フェニックスラダー",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-07",
+    "type": "stamina",
+    "notes": "Takara Tomy Unique Line blade from set UX-07 Phoenix Rudder Deck Set (released 2024-08-10). Official JP copy: Unique Line puts more blade metal on the outer rim; the set is three pre-customized special-color Beys covering stamina, defense, and attack. Featured combo フェニックスラダー9-70G pairs an inverted-trapezoid blade with a low-friction bit so the Bey can take the opponent's stamina while keeping its own spin. Stamina label is from that official featured-combo description, not a separate printed type badge.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux07.html",
+        "label": "Takara Tomy UX-07 Phoenix Rudder Deck Set",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-07)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "silver-wolf",
+    "name": "Silver Wolf",
+    "name_ja": "シルバーウルフ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-08",
+    "type": "stamina",
+    "notes": "Takara Tomy Unique Line blade from starter UX-08 Silver Wolf 3-80FB (released 2024-10-12). Official JP copy: Unique Line puts more blade metal on the outer rim; free-spin blade gimmick sheds opponent attacks while a free-spin bit helps keep stamina, specialized for reducing stamina loss. Hasbro English product name on shop slug: Sterling Wolf 3-80FB (item G1674, labeled Stamina Type). Stamina label is from that official / Hasbro Stamina Type product copy.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux08.html",
+        "label": "Takara Tomy UX-08 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-08)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-sterling-wolf-3-80-fb-ux-starter-pack-set-with-stamina-type-top-and-launcher-ages-8-plus/G1674",
+        "label": "Hasbro Sterling Wolf 3-80FB UX starter (G1674)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "samurai-saber",
+    "name": "Samurai Saber",
+    "name_ja": "サムライセイバー",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-09",
+    "type": "unknown",
+    "notes": "Takara Tomy Unique Line blade from starter UX-09 Samurai Saber 2-70L (released 2024-11-02). Official JP copy: Unique Line puts more blade metal on the outer rim; opening/closing blade gimmick plus a three-stage attack-speed bit, combining a high-power single-hit mode with a lower-power multi-hit mode. Cited pages do not print Attack/Defense/Stamina/Balance on the blade alone; type left unknown. Pack also includes a Hold Launcher, Long Winder, and four rubber grip panels (tools, not catalogued as parts here).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux09.html",
+        "label": "Takara Tomy UX-09 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-09)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "knight-mail",
+    "name": "Knight Mail",
+    "name_ja": "ナイトメイル",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-10",
+    "type": "unknown",
+    "notes": "Takara Tomy Unique Line blade from set UX-10 Customize Set U (released 2024-11-02). Official JP copy: Unique Line puts more blade metal on the outer rim; set includes 4 blades / 3 ratchets / 6 bits. Featured combo ナイトメイル3-85BS uses a blade with built-in metal balls that absorb vertical impact plus a bit that sinks to cushion hits, specialized for softening landing shock and up/down attacks. UX-00 limited booster repeats the same Unique Line copy for ナイトメイル3-85BS. Cited pages do not print Attack/Defense/Stamina/Balance on the blade alone; type left unknown. UX-10 manual lists ブレード【ナイトメイル】.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux10.html",
+        "label": "Takara Tomy UX-10 Customize Set U",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux00-nm.html",
+        "label": "Takara Tomy UX-00 Knight Mail 3-85BS Metal Coat: Navy",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/UX-10_manual.pdf",
+        "label": "Takara Tomy UX-10 instruction manual (PDF)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ptera-swing",
+    "name": "Ptera Swing",
+    "name_ja": "プテラスイング",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-10",
+    "type": "unknown",
+    "notes": "Takara Tomy Unique Line blade included in UX-10 Customize Set U (released 2024-11-02). Official UX-10 manual lists ブレード【プテラスイング】 among the four included blades (with Knight Mail plus special-color Tyranno Beat and Hells Hammer reprints). Product page states the set has four blades but does not describe Ptera Swing performance separately; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/UX-10_manual.pdf",
+        "label": "Takara Tomy UX-10 instruction manual (PDF) (ブレード【プテラスイング】)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux10.html",
+        "label": "Takara Tomy UX-10 product page (4 blades in set)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "impact-drake",
+    "name": "Impact Drake",
+    "name_ja": "インパクトドレイク",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-11",
+    "type": "attack",
+    "notes": "Takara Tomy Unique Line blade from starter UX-11 Impact Drake 9-60LR (official page date 2024-12-28). Official JP copy: Unique Line puts more blade metal on the outer rim; thick four-blade with high-rebound rubber, a low ratchet, and a bit described as good at upper attacks, specialized for knocking the opponent away more strongly. Ships with a special-color String Launcher. Attack label is from that knock-away product copy, not a separate printed type badge.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux11.html",
+        "label": "Takara Tomy UX-11 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-11)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "golem-rock",
+    "name": "Golem Rock",
+    "name_ja": "ゴーレムロック",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-13",
+    "type": "unknown",
+    "notes": "Takara Tomy Unique Line blade from booster UX-13 Golem Rock 1-60UN (official page date 2025-01-25). Official JP copy: Unique Line puts more blade metal on the outer rim; early in battle the Bey takes hits horizontally, then when it tilts late-game the high-repel blade and ratchet aim for a low-position counter. Cited pages do not print Attack/Defense/Stamina/Balance on the blade alone; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux13.html",
+        "label": "Takara Tomy UX-13 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-13)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "scorpio-spear",
+    "name": "Scorpio Spear",
+    "name_ja": "スコーピオスピア",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-14",
+    "type": "unknown",
+    "notes": "Takara Tomy Unique Line blade from starter UX-14 Scorpio Spear 0-70Z (official page date 2025-04-26). Official JP copy: Unique Line puts more blade metal on the outer rim; during X Dash the blade transforms in sync with bit rotation from a round six-blade (high slip-away defense) to a three-blade (high attack). Ships with a Long Winder Launcher. Cited pages do not print a single Attack/Defense/Stamina/Balance label for the blade; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux14.html",
+        "label": "Takara Tomy UX-14 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-14)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "shark-scale",
+    "name": "Shark Scale",
+    "name_ja": "シャークスケイル",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-15",
+    "type": "attack",
+    "notes": "Takara Tomy Unique Line blade from set UX-15 Shark Scale Deck Set (official page date 2025-08-09). Official JP copy: three Attack Type Beys, one each from BX / UX / CX lines; featured combo シャークスケイル4-50UF is a low-position upper-attack blade plus a low-height ratchet and bit, described as getting inside the opponent's guard to aim for burst or over finishes. Attack label is from that official Attack Type / upper-attack product description.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux15.html",
+        "label": "Takara Tomy UX-15 Shark Scale Deck Set",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-15)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "meteor-dragoon",
+    "name": "Meteor Dragoon",
+    "name_ja": "メテオドラグーン",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-17",
+    "type": "attack",
+    "notes": "Takara Tomy Unique Line left-spin blade from starter UX-17 Meteor Dragoon 3-70J (official page date 2025-12-27). Official JP copy: Unique Line puts more blade metal on the outer rim; left-spin blade with large rubber blades plus attack-oriented parts, described as absorbing a right-spin opponent's rotation and delivering repeated strong hits. Ships with a large-grip Dragon Winder and Winder Launcher L. Attack label is from that official combo description.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux17.html",
+        "label": "Takara Tomy UX-17 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-17)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "mummy-curse",
+    "name": "Mummy Curse",
+    "name_ja": "マミーカース",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-18",
+    "type": "defense",
+    "notes": "Takara Tomy Unique Line blade; prize Bey of random booster UX-18 Vol.8 (official page date 2025-12-27). Official JP copy: rare is マミーカース7-55W; switches from counter form to guard form depending on spin speed, showing different defense performance early vs late in battle. Defense label is from that official prize-combo description. Other slots are special-color customized Beys (not named as new blades on the cited page).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux18.html",
+        "label": "Takara Tomy UX-18 Random Booster Vol.8",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-18 ランダムブースター)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bullet-griffon",
+    "name": "Bullet Griffon",
+    "name_ja": "バレットグリフォン",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-19",
+    "type": "balance",
+    "notes": "Takara Tomy Unique Line Expand Blade from starter UX-19 Bullet Griffon H (official page date 2026-04-25). Official JP copy / Gear Structure: Unique Line Expand Blade integrates the ratchet into a Unique Line blade to extend its specialized performance. Balance Type Beyblade that can fight as two units during battle — a 'bullet' that splits off to damage the opponent and a long-spinning main body. Ships with a Long Winder Launcher. Balance label is from that official product description. Cited pages do not expand the trailing H letter as a separate catalogued bit name.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux19.html",
+        "label": "Takara Tomy UX-19 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Unique Line Expand Blade)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "glory-valkyrie",
+    "name": "Glory Valkyrie",
+    "name_ja": "グローリーワルキューレ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-20",
+    "type": "attack",
+    "notes": "Takara Tomy Unique Line Expand Blade from starter UX-20 Glory Valkyrie LF (official page date 2026-07-11). Official JP copy / Gear Structure: Unique Line Expand Blade integrates the ratchet into a Unique Line blade. Attack Type Beyblade that runs a bouncing blade on a bit described as good at high-speed X Dash, excelling at knocking the opponent far away. Ships with a special-color String Launcher. Attack label is from that official product description. Cited pages do not expand the trailing LF letters as a separate catalogued bit name.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux20.html",
+        "label": "Takara Tomy UX-20 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Unique Line Expand Blade)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "hells-nether",
+    "name": "Hells Nether",
+    "name_ja": "ヘルズネザー",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-21",
+    "type": "balance",
+    "notes": "Takara Tomy Unique Line Expand Blade from set UX-21 Hells Nether Deck Set (official page date 2026-08-08). Official JP copy: three-Bey deck set; featured Unique Line Expand Blade ヘルズネザーZ pairs a height-switching blade with a bit that has both attack and defense traits, described as a Balance Type Beyblade that can pick a favorable tactic by opponent. Balance label is from that official product description. Cited pages do not expand the trailing Z letter as a separate catalogued bit name.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux21.html",
+        "label": "Takara Tomy UX-21 Hells Nether Deck Set",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Unique Line Expand Blade)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "aero-pegasus",
+    "name": "Aero Pegasus",
+    "name_ja": "エアロペガサス",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "UX-00",
+    "type": "attack",
+    "notes": "Takara Tomy Unique Line blade from app/event-limited UX-00 Aero Pegasus 3-70A packs (Red Ver. official page date 2026-02-21; earlier Double Metal Coat Blue×Green campaign also used UX-00). Official JP copy: Unique Line puts more blade metal on the outer rim; heavy blade plus high-attack parts, specialized for attack power. Attack label is from that official product description.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux00-ap_red.html",
+        "label": "Takara Tomy UX-00 Aero Pegasus 3-70A Red Ver.",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news250715_2.html",
+        "label": "Takara Tomy UX-00 Aero Pegasus 3-70A Double Metal Coat notice",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-00 エアロペガサス)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-3-70",
+    "name": "3-70",
+    "name_ja": "3-70",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-02",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Unique Line starter UX-02 Hells Hammer 3-70H. Official pages name it only as the 3-70 segment of the product name. Also used on UX-17 Meteor Dragoon 3-70J. Ratchets are not a printed Attack/Defense/Stamina/Balance type; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux02.html",
+        "label": "Takara Tomy UX-02 product page (3-70 in ヘルズハンマー3-70H)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux17.html",
+        "label": "Takara Tomy UX-17 product page (3-70 in メテオドラグーン3-70J)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-5-70",
+    "name": "5-70",
+    "name_ja": "5-70",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-03",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Unique Line booster UX-03 Wizard Rod 5-70DB. Official pages name it only as the 5-70 segment of the product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux03.html",
+        "label": "Takara Tomy UX-03 product page (5-70 in ウィザードロッド5-70DB)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-03)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-7-60",
+    "name": "7-60",
+    "name_ja": "7-60",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-06",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Unique Line booster UX-06 Leon Crest 7-60GN. Official JP copy pairs a wall-like blade with this ratchet to repel attacks from any direction. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux06.html",
+        "label": "Takara Tomy UX-06 product page (7-60 in レオンクレスト7-60GN)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Ratchet role)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-9-70",
+    "name": "9-70",
+    "name_ja": "9-70",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-07",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Unique Line featured combo UX-07 Phoenix Rudder 9-70G. Official pages name it only as the 9-70 segment of that product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux07.html",
+        "label": "Takara Tomy UX-07 product page (9-70 in フェニックスラダー9-70G)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-07)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-2-70",
+    "name": "2-70",
+    "name_ja": "2-70",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-09",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Unique Line starter UX-09 Samurai Saber 2-70L. Official pages name it only as the 2-70 segment of the product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux09.html",
+        "label": "Takara Tomy UX-09 product page (2-70 in サムライセイバー2-70L)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-09)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-3-85",
+    "name": "3-85",
+    "name_ja": "3-85",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-10",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Unique Line featured combo UX-10 Knight Mail 3-85BS. UX-10 manual lists ラチェット【3-85】. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux10.html",
+        "label": "Takara Tomy UX-10 product page (3-85 in ナイトメイル3-85BS)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/UX-10_manual.pdf",
+        "label": "Takara Tomy UX-10 instruction manual (PDF) (ラチェット【3-85】)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-7-70",
+    "name": "7-70",
+    "name_ja": "7-70",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-10",
+    "type": "unknown",
+    "notes": "Height/contact ratchet included in Unique Line UX-10 Customize Set U. Official UX-10 manual lists ラチェット【7-70】 among the three included ratchets (with 3-85 and 1-60). Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/UX-10_manual.pdf",
+        "label": "Takara Tomy UX-10 instruction manual (PDF) (ラチェット【7-70】)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux10.html",
+        "label": "Takara Tomy UX-10 product page (3 ratchets in set)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-0-70",
+    "name": "0-70",
+    "name_ja": "0-70",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-14",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Unique Line starter UX-14 Scorpio Spear 0-70Z. Official pages name it only as the 0-70 segment of the product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux14.html",
+        "label": "Takara Tomy UX-14 product page (0-70 in スコーピオスピア0-70Z)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-14)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-4-50",
+    "name": "4-50",
+    "name_ja": "4-50",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-15",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Unique Line featured combo UX-15 Shark Scale 4-50UF. Official JP copy describes the ratchet as lowering height with the blade and bit for a low-position upper attack. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux15.html",
+        "label": "Takara Tomy UX-15 product page (4-50 in シャークスケイル4-50UF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-15)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-9-65",
+    "name": "9-65",
+    "name_ja": "9-65",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-16",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Unique Line random-booster UX-16 Clock Mirage 9-65B. Official JP copy pairs a circular 60-blade with this low ratchet and a high-stamina bit; official note: blade クロックミラージュ can only be attached to simple-type ratchets. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux16.html",
+        "label": "Takara Tomy UX-16 product page (9-65 in クロックミラージュ9-65B)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-16)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-7-55",
+    "name": "7-55",
+    "name_ja": "7-55",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "UX-18",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Unique Line random-booster prize combo UX-18 Mummy Curse 7-55W. Official pages name it only as the 7-55 segment of the product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux18.html",
+        "label": "Takara Tomy UX-18 product page (7-55 in マミーカース7-55W)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (UX-18)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-wedge",
+    "name": "W (Wedge)",
+    "name_ja": "W（ウェッジ）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "UX-18",
+    "type": "unknown",
+    "notes": "Shaft-tip bit. Takara Tomy Plus One Bit campaign expands W as ウェッジ (Wedge). First listed on Unique Line random-booster prize UX-18 Mummy Curse 7-55W. Cited pages do not print Attack/Defense/Stamina/Balance for W; type left unknown. Do not confuse with Custom Line assist-blade letter W (Wheel).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news260615_6.html",
+        "label": "Takara Tomy Plus One Bit campaign (W/ウェッジ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux18.html",
+        "label": "Takara Tomy UX-18 product page (7-55W)",
+        "kind": "official"
+      }
+    ]
   }
 ]
