@@ -88,6 +88,21 @@ Adds **Custom Line starter/booster main blades and remaining CX Select-pack blad
 
 Sources: Takara Tomy Custom Line lineup / product pages and the CX CUP parts list first; Plus One Bit campaign pages for official bit-letter expansions. Bit letters without an official Japanese expansion (e.g. LO, Tr, TK, GR, Nr) are **not** added. No wiki-invented stats.
 
+## Coverage (slice 5 — later Custom Line packs / CX CUP metal and over-blade letters)
+
+Adds **later Custom Line packs CX-11–CX-16**, remaining **CX CUP metal blades / main blades / lock chips / over-blade letters / assist letters**, and still-missing CX random-booster Custom Line parts after slices 1–4. Existing rows are kept; new rows use new `id`s.
+
+- **Main blades** — Might (CX-11), Flare (CX-12), Reaper (CX-05 Hells Reaper), Flame (CX-08 Cerberus Flame), Bolt (CX-00 Valkyrie Bolt), Fang (CX-00 Leon Fang)
+- **Metal blades** — Blitz (CX-13), Fortress (CX-14), Rage (CX-15); CX CUP Expand Blade letters listed as 3月28日発売予定
+- **Lock chips** — `Emperor` (CX-11), `Phoenix` (CX-12), `Bahamut` (CX-13), `Knight` (CX-14), `Ragna` (CX-15), `Rhino` (CX-05), `Whale` (CX-08), `Valkyrie` (CX-00), `Leon` (CX-00)
+- **Other (over-blades)** — `B` (Break), `F` (Flow), `G` (Guard) from CX-13 / CX-15 / CX-14
+- **Other (assist blades)** — `H` (Heavy), `Z` (Zillion), `K` (Knuckle), `V` (Vertical), `E` (Erase), `C` (Charge), `M` (Massive), `W` (Wheel)
+- **Ratchets** — `1-50`, `8-70` as printed in those CX combos
+- **Bits** — `Op` Operate (CX-11 ratchet-integrated; official height correction 防御80/攻撃85), `WW` Wall Wedge (CX-12), `I` Ignition (CX-13), `UN` Under Needle (first listed UX-13; expanded on CX-14 manual), `Y` Yielding (CX-15)
+- **CX-16** — Start Dash Set C is a special-color バハムートブリッツBK (same CX-13 Expand Blade letters); no extra unique Custom Line letters beyond CX-13
+
+Sources: Takara Tomy Custom Line / Expand Blade product pages and manuals, the CX CUP parts list, and official news for CX-00 Valkyrie Bolt. Bit letters without an official Japanese expansion printed on those pages (e.g. K, D, O, WB, HT on CX-05 / CX-08) are **not** added. No wiki-invented stats.
+
 ## How to extend
 
 1. Add an object to `data/parts.json` (keep `id` unique; do not overwrite existing rows).
@@ -95,11 +110,11 @@ Sources: Takara Tomy Custom Line lineup / product pages and the CX CUP parts lis
    - [Takara Tomy lineup](https://beyblade.takaratomy.co.jp/beyblade-x/lineup/) (filter **カスタムライン** / **ユニークライン** / **ランダムブースター**)
    - [Takara Tomy manuals](https://beyblade.takaratomy.co.jp/beyblade-x/manual/)
    - [Takara Tomy Gear Structure](https://beyblade.takaratomy.co.jp/gear/)
-   - [Takara Tomy CX CUP parts list](https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html) for Custom Line lock / main / assist / over-blade letters
+   - [Takara Tomy CX CUP parts list](https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html) for Custom Line lock / main / metal / assist / over-blade letters
    - [Hasbro shop](https://shop.hasbro.com/)
 3. If a Japanese name, product code, or type is not on those pages, store `"unknown"`.
 4. Run `./scripts/verify.sh`.
 
 ## Next slice
 
-Still out of catalog: later Custom Line packs (CX-11 Emperor Might through CX-16 Start Dash Set C), remaining CX CUP lock chips / main blades / metal blades (Fortress, Blitz, Rage) / over-blade letters (B Break, F Flow, G Guard) / assist letters, later BX starters, launchers, and stadiums. A natural follow-up is **later Custom Line packs (CX-11–CX-16) plus remaining CX CUP metal and over-blade letters** with the same sourced-only rules.
+Still out of catalog: later Basic Line (BX) starters and remaining BX-00 collab blades (e.g. Weiss Tiger, Crimson Garuda, Tricera Press, Samurai Calibur, Dran Strike, Storm Spriggan, Storm Pegasus), remaining CX-00 Custom Line collabs that are not on the current CX CUP list (e.g. Tiga Rage, Eva deck, Drake Brave), launchers, and stadiums. A natural follow-up is **later Basic Line (BX) starters and remaining BX-00 collab blades** with the same sourced-only rules.
