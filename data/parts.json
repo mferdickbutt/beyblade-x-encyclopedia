@@ -2468,5 +2468,987 @@
         "kind": "official"
       }
     ]
+  },
+  {
+    "id": "might",
+    "name": "Might",
+    "name_ja": "マイト",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-11",
+    "type": "unknown",
+    "notes": "Takara Tomy Custom Line main blade named マイト on the official CX CUP parts list. First listed on set CX-11 Emperor Might Deck Set featured combo エンペラーマイトHOp (lock chip Emperor + main blade Might + assist blade H/Heavy + ratchet-integrated bit Op/Operate; official page date 2025-11-01). Official JP copy: all-heavy-class parts plus a bit that can switch performance, for heavy-class defense and heavy-class attack styles. Official pages do not print a single Attack/Defense/Stamina/Balance badge for Might alone; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (main blade マイト)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx11.html",
+        "label": "Takara Tomy CX-11 product page (エンペラーマイトHOp)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-11_manual.pdf",
+        "label": "Takara Tomy CX-11 manual (メインブレード/マイト)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-11)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "flare",
+    "name": "Flare",
+    "name_ja": "フレア",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-12",
+    "type": "defense",
+    "notes": "Takara Tomy Custom Line main blade named フレア on the official CX CUP parts list. First listed on booster CX-12 Phoenix Flare Z9-80WW (lock chip Phoenix + main blade Flare + assist blade Z/Zillion + ratchet 9-80 + bit WW; official page date 2026-01-24). Official JP copy: heavy rapid-hit blades plus a bit that limits tilt, holding the stadium center to grind and counter; described as a Defense Type Beyblade. Defense label is from that official product description.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (main blade フレア)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx12.html",
+        "label": "Takara Tomy CX-12 product page (フェニックスフレアZ9-80WW)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-12_manual.pdf",
+        "label": "Takara Tomy CX-12 manual (メインブレード/フレア)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-12)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "reaper",
+    "name": "Reaper",
+    "name_ja": "リーパー",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-05",
+    "type": "unknown",
+    "notes": "Takara Tomy Custom Line main blade named リーパー on the official CX CUP parts list. First listed on random-booster prize CX-05 Hells Reaper T4-70K (ヘルズリーパーT4-70K; official page date 2025-04-26). Official JP copy: a blade that can switch two modes to pick a strategy, paired with a bit described as combining attack and defense. Official pages do not print a single Attack/Defense/Stamina/Balance badge for Reaper alone; type left unknown. Also printed in CX-05 rare-2 combo ライノリーパーC4-55D (CX-05 manual).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (main blade リーパー)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx05.html",
+        "label": "Takara Tomy CX-05 Random Booster Vol.6 (ヘルズリーパーT4-70K)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-05_manual.pdf",
+        "label": "Takara Tomy CX-05 manual (ヘルズリーパーT / ライノリーパーC)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "flame",
+    "name": "Flame",
+    "name_ja": "フレイム",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-08",
+    "type": "unknown",
+    "notes": "Takara Tomy Custom Line main blade named フレイム on the official CX CUP parts list. First listed on random-booster prize CX-08 Cerberus Flame W5-80WB (ケルベロスフレイムW5-80WB; official page date 2025-07-19). Official JP copy: two-layer thick circular blades plus a bit that holds posture, reducing stamina loss from hits and tilt. Official pages do not print a single Attack/Defense/Stamina/Balance badge for Flame alone; type left unknown. Also printed in CX-08 rare-2 combo ホエールフレイムM3-85HT (CX-08 manual).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (main blade フレイム)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx08.html",
+        "label": "Takara Tomy CX-08 Random Booster Vol.7 (ケルベロスフレイムW5-80WB)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-08_manual.pdf",
+        "label": "Takara Tomy CX-08 manual (ケルベロスフレイムW / ホエールフレイムM)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bolt",
+    "name": "Bolt",
+    "name_ja": "ボルト",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-00",
+    "type": "unknown",
+    "notes": "Takara Tomy Custom Line main blade named ボルト on the official CX CUP parts list. First listed on app-event CX-00 Valkyrie Bolt S4-70V Metal Coat: Gold (ワルキューレボルトS4-70V メタルコート:ゴールド; official news 2025-07-15). Official JP copy: metal lock chip plus a metal-coated smash-shaped blade with high-attack parts, specialized for smash attacks. Cited pages do not print a single Attack/Defense/Stamina/Balance badge for Bolt alone; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (main blade ボルト)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news250715_3.html",
+        "label": "Takara Tomy news (ワルキューレボルトS4-70V メタルコート:ゴールド)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news260615_2.html",
+        "label": "Takara Tomy news (CX-00 ワルキューレボルトS4-70V)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "fang",
+    "name": "Fang",
+    "name_ja": "ファング",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-00",
+    "type": "unknown",
+    "notes": "Takara Tomy Custom Line main blade named ファング on the official CX CUP parts list. Named on the official Takara Tomy product-movie list as レオンファングT4-60A レッドVer. (Beyblade X Evo Battle bonus). T4-60A letters match assist T + ratchet 4-60 + bit A as printed in that title; cited pages do not expand bit A, so it is not invented here. Official pages do not print Attack/Defense/Stamina/Balance for Fang; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (main blade ファング)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/movie/products.html",
+        "label": "Takara Tomy product movies (レオンファングT4-60A レッドVer.)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "blitz",
+    "name": "Blitz",
+    "name_ja": "ブリッツ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-13",
+    "type": "attack",
+    "notes": "Takara Tomy Custom Line metal blade named ブリッツ on the official CX CUP parts list (Expand Blade; listed as 3月28日発売予定). First listed on starter CX-13 Bahamut Blitz BK1-50I (lock chip Bahamut + over-blade B/Break + metal blade Blitz + assist blade K/Knuckle + ratchet 1-50 + bit I; official page date 2026-03-28). Official JP copy: Custom Line Expand Blade disassembles into four parts; concentrates heavy-hit points of blade and ratchet into one place to maximize single-hit attack, with a low center of gravity and high-speed movement; described as an Attack Type Beyblade. Attack label is from that official product description. Also included as special-color バハムートブリッツBK in CX-16 Start Dash Set C.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (metal blade ブリッツ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx13.html",
+        "label": "Takara Tomy CX-13 product page (バハムートブリッツBK1-50I)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-13_manual.pdf",
+        "label": "Takara Tomy CX-13 manual (メタルブレード/ブリッツ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx16.html",
+        "label": "Takara Tomy CX-16 Start Dash Set C (special-color バハムートブリッツBK)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Custom Line Expand Blade)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "fortress",
+    "name": "Fortress",
+    "name_ja": "フォートレス",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-14",
+    "type": "defense",
+    "notes": "Takara Tomy Custom Line metal blade named フォートレス on the official CX CUP parts list (Expand Blade; listed as 3月28日発売予定). First listed on starter CX-14 Knight Fortress GV8-70UN (lock chip Knight + over-blade G/Guard + metal blade Fortress + assist blade V/Vertical + ratchet 8-70 + bit UN; official page date 2026-03-28). Official JP copy: counter blades that extend in all directions plus a heavy ratchet that strengthens centrifugal force, intercepting attacks from any angle; described as a Defense Type Beyblade. Defense label is from that official product description.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (metal blade フォートレス)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx14.html",
+        "label": "Takara Tomy CX-14 product page (ナイトフォートレスGV8-70UN)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-14_manual.pdf",
+        "label": "Takara Tomy CX-14 manual (メタルブレード/フォートレス)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Custom Line Expand Blade)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "rage",
+    "name": "Rage",
+    "name_ja": "レイジ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "CX-15",
+    "type": "stamina",
+    "notes": "Takara Tomy Custom Line metal blade named レイジ on the official CX CUP parts list (Expand Blade; listed as 3月28日発売予定). First listed on booster CX-15 Ragna Rage FE4-55Y (lock chip Ragna + over-blade F/Flow + metal blade Rage + assist blade E/Erase + ratchet 4-55 + bit Y; official page date 2026-03-28). Official JP copy: streamlined blades that cut air resistance, keep a stable posture, reduce stamina use in battle, and drain the opponent's stamina; described as a Stamina Type Beyblade. Stamina label is from that official product description.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (metal blade レイジ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx15.html",
+        "label": "Takara Tomy CX-15 product page (ラグナレイジFE4-55Y)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-15_manual.pdf",
+        "label": "Takara Tomy CX-15 manual (メタルブレード/レイジ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Custom Line Expand Blade)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-emperor",
+    "name": "Emperor",
+    "name_ja": "エンペラー",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-11",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named エンペラー on the official CX CUP parts list (3on3: only one Emperor lock chip allowed). First listed on set CX-11 Emperor Might Deck Set featured combo エンペラーマイトHOp. CX-11 manual labels it メタルロックチップ/エンペラー. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip エンペラー)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx11.html",
+        "label": "Takara Tomy CX-11 product page (エンペラーマイトHOp)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-11_manual.pdf",
+        "label": "Takara Tomy CX-11 manual (ロックチップ/エンペラー)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-phoenix",
+    "name": "Phoenix",
+    "name_ja": "フェニックス",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-12",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named フェニックス on the official CX CUP parts list. First listed on booster CX-12 Phoenix Flare Z9-80WW. CX-12 manual labels it ロックチップ/フェニックス. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip フェニックス)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx12.html",
+        "label": "Takara Tomy CX-12 product page (フェニックスフレアZ9-80WW)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-12_manual.pdf",
+        "label": "Takara Tomy CX-12 manual (ロックチップ/フェニックス)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-bahamut",
+    "name": "Bahamut",
+    "name_ja": "バハムート",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-13",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named バハムート on the official CX CUP parts list (listed as 3月28日発売予定). First listed on starter CX-13 Bahamut Blitz BK1-50I. CX-13 / CX-16 manuals label it ロックチップ/バハムート. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip バハムート)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx13.html",
+        "label": "Takara Tomy CX-13 product page (バハムートブリッツBK1-50I)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-13_manual.pdf",
+        "label": "Takara Tomy CX-13 manual (ロックチップ/バハムート)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-knight",
+    "name": "Knight",
+    "name_ja": "ナイト",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-14",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named ナイト on the official CX CUP parts list (listed as 3月28日発売予定). First listed on starter CX-14 Knight Fortress GV8-70UN. CX-14 manual labels it ロックチップ/ナイト. Type left unknown. Do not confuse with Basic Line blades Knight Shield / Knight Lance.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip ナイト)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx14.html",
+        "label": "Takara Tomy CX-14 product page (ナイトフォートレスGV8-70UN)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-14_manual.pdf",
+        "label": "Takara Tomy CX-14 manual (ロックチップ/ナイト)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-ragna",
+    "name": "Ragna",
+    "name_ja": "ラグナ",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-15",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named ラグナ on the official CX CUP parts list (listed as 3月28日発売予定). First listed on booster CX-15 Ragna Rage FE4-55Y. CX-15 manual labels it ロックチップ/ラグナ. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip ラグナ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx15.html",
+        "label": "Takara Tomy CX-15 product page (ラグナレイジFE4-55Y)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-15_manual.pdf",
+        "label": "Takara Tomy CX-15 manual (ロックチップ/ラグナ)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-rhino",
+    "name": "Rhino",
+    "name_ja": "ライノ",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-05",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named ライノ on the official CX CUP parts list. First listed on CX-05 Random Booster Vol.6 rare-2 combo ライノリーパーC4-55D (CX-05 manual). Type left unknown. Do not confuse with Basic Line blade Rhino Horn (BX-19).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip ライノ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-05_manual.pdf",
+        "label": "Takara Tomy CX-05 manual (ライノリーパーC4-55D)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx05.html",
+        "label": "Takara Tomy CX-05 Random Booster Vol.6",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-whale",
+    "name": "Whale",
+    "name_ja": "ホエール",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-08",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named ホエール on the official CX CUP parts list. First listed on CX-08 Random Booster Vol.7 rare-2 combo ホエールフレイムM3-85HT (CX-08 manual). Type left unknown. Do not confuse with Basic Line blade Whale Wave (BX-36).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip ホエール)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-08_manual.pdf",
+        "label": "Takara Tomy CX-08 manual (ホエールフレイムM3-85HT)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx08.html",
+        "label": "Takara Tomy CX-08 Random Booster Vol.7",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-valkyrie",
+    "name": "Valkyrie",
+    "name_ja": "ワルキューレ",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-00",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named ワルキューレ on the official CX CUP parts list (3on3: only one Valkyrie lock chip allowed). First listed on app-event CX-00 Valkyrie Bolt S4-70V Metal Coat: Gold; official news describes a metal lock chip on that combo. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip ワルキューレ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news250715_3.html",
+        "label": "Takara Tomy news (ワルキューレボルトS4-70V メタルロックチップ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news260615_2.html",
+        "label": "Takara Tomy news (CX-00 ワルキューレボルトS4-70V)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-leon",
+    "name": "Leon",
+    "name_ja": "レオン",
+    "part_type": "lock_chip",
+    "generation": "Beyblade X",
+    "product_code": "CX-00",
+    "type": "unknown",
+    "notes": "Custom Line lock chip named レオン on the official CX CUP parts list. Named on the official Takara Tomy product-movie list as the lock-chip segment of レオンファングT4-60A レッドVer. (Evo Battle bonus). Type left unknown. Do not confuse with Basic Line blade Leon Claw or Unique Line blade Leon Crest.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (lock chip レオン)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/movie/products.html",
+        "label": "Takara Tomy product movies (レオンファングT4-60A レッドVer.)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "over-blade-break",
+    "name": "B (Break)",
+    "name_ja": "B（ブレイク）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-13",
+    "type": "unknown",
+    "notes": "Custom Line over-blade (Expand Blade; not a lock chip or assist blade). Official CX CUP parts list expands B as ブレイク (Break) under オーバーブレード (listed as 3月28日発売予定). Appears as the B in starter CX-13 Bahamut Blitz BK1-50I and special-color CX-16 バハムートブリッツBK. Type left unknown. Do not confuse with assist-blade letter B (Bumper) or bit B (Ball).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (over-blade B/Break)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx13.html",
+        "label": "Takara Tomy CX-13 product page (B in バハムートブリッツBK1-50I)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-13_manual.pdf",
+        "label": "Takara Tomy CX-13 manual (オーバーブレード/B(ブレイク))",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "over-blade-flow",
+    "name": "F (Flow)",
+    "name_ja": "F（フロー）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-15",
+    "type": "unknown",
+    "notes": "Custom Line over-blade (Expand Blade; not a lock chip or assist blade). Official CX CUP parts list expands F as フロー (Flow) under オーバーブレード (listed as 3月28日発売予定). Appears as the F in booster CX-15 Ragna Rage FE4-55Y. Type left unknown. Do not confuse with assist-blade letter F (Free) or bit F (Flat).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (over-blade F/Flow)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx15.html",
+        "label": "Takara Tomy CX-15 product page (F in ラグナレイジFE4-55Y)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-15_manual.pdf",
+        "label": "Takara Tomy CX-15 manual (オーバーブレード/F(フロー))",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "over-blade-guard",
+    "name": "G (Guard)",
+    "name_ja": "G（ガード）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-14",
+    "type": "unknown",
+    "notes": "Custom Line over-blade (Expand Blade; not a lock chip or assist blade). Official CX CUP parts list expands G as ガード (Guard) under オーバーブレード (listed as 3月28日発売予定). Appears as the G in starter CX-14 Knight Fortress GV8-70UN. Type left unknown. Do not confuse with bit GB (Gear Ball).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (over-blade G/Guard)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx14.html",
+        "label": "Takara Tomy CX-14 product page (G in ナイトフォートレスGV8-70UN)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-14_manual.pdf",
+        "label": "Takara Tomy CX-14 manual (オーバーブレード/G(ガード))",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-heavy",
+    "name": "H (Heavy)",
+    "name_ja": "H（ヘビー）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-11",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands H as ヘビー (Heavy) under アシストブレード. Appears as the H in set CX-11 Emperor Might HOp. Type left unknown. Do not confuse with Unique Line bit letter H printed in other product names.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade H/Heavy)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx11.html",
+        "label": "Takara Tomy CX-11 product page (H in エンペラーマイトHOp)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-11_manual.pdf",
+        "label": "Takara Tomy CX-11 manual (アシストブレード/H(ヘビー))",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-zillion",
+    "name": "Z (Zillion)",
+    "name_ja": "Z（ジリオン）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-12",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands Z as ジリオン (Zillion) under アシストブレード. Appears as the Z in booster CX-12 Phoenix Flare Z9-80WW. Type left unknown. Do not confuse with Unique Line bit letter Z printed in other product names.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade Z/Zillion)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx12.html",
+        "label": "Takara Tomy CX-12 product page (Z in フェニックスフレアZ9-80WW)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-12_manual.pdf",
+        "label": "Takara Tomy CX-12 manual (アシストブレード/Z(ジリオン))",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-knuckle",
+    "name": "K (Knuckle)",
+    "name_ja": "K（ナックル）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-13",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands K as ナックル (Knuckle) under アシストブレード (listed as 3月28日発売予定). Appears as the K in starter CX-13 Bahamut Blitz BK1-50I. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade K/Knuckle)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx13.html",
+        "label": "Takara Tomy CX-13 product page (K in バハムートブリッツBK1-50I)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-13_manual.pdf",
+        "label": "Takara Tomy CX-13 manual (アシストブレード/K(ナックル))",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-vertical",
+    "name": "V (Vertical)",
+    "name_ja": "V（ヴァーチカル）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-14",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands V as ヴァーチカル (Vertical) under アシストブレード (listed as 3月28日発売予定). Appears as the V in starter CX-14 Knight Fortress GV8-70UN. Type left unknown. Do not confuse with bit V (Vortex).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade V/Vertical)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx14.html",
+        "label": "Takara Tomy CX-14 product page (V in ナイトフォートレスGV8-70UN)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-14_manual.pdf",
+        "label": "Takara Tomy CX-14 manual (アシストブレード/V(ヴァーチカル))",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-erase",
+    "name": "E (Erase)",
+    "name_ja": "E（イレイズ）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-15",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands E as イレイズ (Erase) under アシストブレード (listed as 3月28日発売予定). Appears as the E in booster CX-15 Ragna Rage FE4-55Y. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade E/Erase)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx15.html",
+        "label": "Takara Tomy CX-15 product page (E in ラグナレイジFE4-55Y)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-15_manual.pdf",
+        "label": "Takara Tomy CX-15 manual (アシストブレード/E(イレイズ))",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-charge",
+    "name": "C (Charge)",
+    "name_ja": "C（チャージ）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-05",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands C as チャージ (Charge) under アシストブレード. Appears as the C in CX-05 rare-2 combo ライノリーパーC4-55D (CX-05 manual). Type left unknown. Do not confuse with Unique Line bit letter C printed in other product names.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade C/Charge)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-05_manual.pdf",
+        "label": "Takara Tomy CX-05 manual (C in ライノリーパーC4-55D)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx05.html",
+        "label": "Takara Tomy CX-05 Random Booster Vol.6",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-massive",
+    "name": "M (Massive)",
+    "name_ja": "M（マッシブ）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-08",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands M as マッシブ (Massive) under アシストブレード. Appears as the M in CX-08 rare-2 combo ホエールフレイムM3-85HT (CX-08 manual). Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade M/Massive)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-08_manual.pdf",
+        "label": "Takara Tomy CX-08 manual (M in ホエールフレイムM3-85HT)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx08.html",
+        "label": "Takara Tomy CX-08 Random Booster Vol.7",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-wheel",
+    "name": "W (Wheel)",
+    "name_ja": "W（ウィール）",
+    "part_type": "other",
+    "generation": "Beyblade X",
+    "product_code": "CX-08",
+    "type": "unknown",
+    "notes": "Custom Line assist blade (not a lock chip). Official CX CUP parts list expands W as ウィール (Wheel) under アシストブレード. Appears as the W in CX-08 prize combo ケルベロスフレイムW5-80WB. Type left unknown. Do not confuse with bit W (Wedge).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/event/g2_cxcup2026_list.html",
+        "label": "Takara Tomy CX CUP legal parts list (assist blade W/Wheel)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx08.html",
+        "label": "Takara Tomy CX-08 product page (W in ケルベロスフレイムW5-80WB)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-08_manual.pdf",
+        "label": "Takara Tomy CX-08 manual (W in ケルベロスフレイムW)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-1-50",
+    "name": "1-50",
+    "name_ja": "1-50",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "CX-13",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Custom Line starter CX-13 Bahamut Blitz BK1-50I. Official pages name it only as the 1-50 segment of the product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx13.html",
+        "label": "Takara Tomy CX-13 product page (1-50 in バハムートブリッツBK1-50I)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-13_manual.pdf",
+        "label": "Takara Tomy CX-13 manual (ラチェット 1-50)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-13)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-8-70",
+    "name": "8-70",
+    "name_ja": "8-70",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "CX-14",
+    "type": "unknown",
+    "notes": "Height/contact ratchet printed in Custom Line starter CX-14 Knight Fortress GV8-70UN. Official pages name it only as the 8-70 segment of the product name. Official CX-14 copy describes a heavy-class ratchet that strengthens centrifugal force. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx14.html",
+        "label": "Takara Tomy CX-14 product page (8-70 in ナイトフォートレスGV8-70UN)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-14_manual.pdf",
+        "label": "Takara Tomy CX-14 manual (ラチェット 8-70)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (CX-14)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-operate",
+    "name": "Op (Operate)",
+    "name_ja": "Op（オペレート）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "CX-11",
+    "type": "unknown",
+    "notes": "Ratchet-integrated bit. Takara Tomy CX-11 correction notice and CX-11 manual expand Op as オペレート (Operate). First listed on set CX-11 Emperor Might HOp. Official correction: defense-mode height 80 / attack-mode height 85 (package/HP had those swapped). Official CX-11 copy: a bit that can switch performance for heavy-class defense and heavy-class attack styles. Cited pages do not print a single Attack/Defense/Stamina/Balance badge for Op; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news251031.html",
+        "label": "Takara Tomy CX-11 correction (Op/オペレート 防御80/攻撃85)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx11.html",
+        "label": "Takara Tomy CX-11 product page (エンペラーマイトHOp)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-11_manual.pdf",
+        "label": "Takara Tomy CX-11 manual (ラチェット一体型ビット Op(オペレート))",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-wall-wedge",
+    "name": "WW (Wall Wedge)",
+    "name_ja": "WW（ウォールウェッジ）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "CX-12",
+    "type": "unknown",
+    "notes": "Shaft-tip bit. Takara Tomy CX-12 manual expands WW as ウォールウェッジ (Wall Wedge). First listed on booster CX-12 Phoenix Flare Z9-80WW. Official CX-12 copy describes a bit that limits tilt while holding the stadium center. Cited pages do not print Attack/Defense/Stamina/Balance for WW; type left unknown. Do not confuse with bit W (Wedge).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-12_manual.pdf",
+        "label": "Takara Tomy CX-12 manual (WW/ウォールウェッジ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx12.html",
+        "label": "Takara Tomy CX-12 product page (Z9-80WW)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-ignition",
+    "name": "I (Ignition)",
+    "name_ja": "I（イグニッション）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "CX-13",
+    "type": "unknown",
+    "notes": "Shaft-tip bit. Takara Tomy CX-13 / CX-16 manuals expand I as イグニッション (Ignition). First listed on starter CX-13 Bahamut Blitz BK1-50I; also in CX-16 Start Dash Set C special-color バハムートブリッツBK. Cited pages do not print Attack/Defense/Stamina/Balance for I; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-13_manual.pdf",
+        "label": "Takara Tomy CX-13 manual (I/イグニッション)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx13.html",
+        "label": "Takara Tomy CX-13 product page (BK1-50I)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-16_manual.pdf",
+        "label": "Takara Tomy CX-16 manual (I/イグニッション)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-under-needle",
+    "name": "UN (Under Needle)",
+    "name_ja": "UN（アンダーニードル）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "UX-13",
+    "type": "unknown",
+    "notes": "Shaft-tip bit. Takara Tomy CX-14 manual expands UN as アンダーニードル (Under Needle). First listed on Unique Line booster UX-13 Golem Rock 1-60UN; also printed in Custom Line starter CX-14 Knight Fortress GV8-70UN. Cited pages do not print Attack/Defense/Stamina/Balance for UN; type left unknown. Do not confuse with bit N (Needle).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-14_manual.pdf",
+        "label": "Takara Tomy CX-14 manual (UN/アンダーニードル)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux13.html",
+        "label": "Takara Tomy UX-13 product page (1-60UN)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx14.html",
+        "label": "Takara Tomy CX-14 product page (GV8-70UN)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-yielding",
+    "name": "Y (Yielding)",
+    "name_ja": "Y（イールディング）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "CX-15",
+    "type": "unknown",
+    "notes": "Shaft-tip bit. Takara Tomy CX-15 manual expands Y as イールディング (Yielding). First listed on booster CX-15 Ragna Rage FE4-55Y. Cited pages do not print Attack/Defense/Stamina/Balance for Y; type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/CX-15_manual.pdf",
+        "label": "Takara Tomy CX-15 manual (Y/イールディング)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx15.html",
+        "label": "Takara Tomy CX-15 product page (FE4-55Y)",
+        "kind": "official"
+      }
+    ]
   }
 ]
