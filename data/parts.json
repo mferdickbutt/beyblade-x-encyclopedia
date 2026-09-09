@@ -4096,5 +4096,541 @@
         "kind": "official"
       }
     ]
+  },
+  {
+    "id": "dran-dagger",
+    "name": "Dran Dagger",
+    "name_ja": "ドランダガー",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-20",
+    "type": "attack",
+    "notes": "Takara Tomy Basic Line blade from set BX-20 Dran Dagger Deck Set (released 2023-11-02). Featured stock combo is ドランダガー4-60R. Official JP copy: six-blade design with high rapid-hit performance, paired with a bit that is easy to keep dashing, for continuous X Dash and consecutive attacks. Official parts-detail sheet type icon is Attack (right-spin). Attack label is from that official icon / product copy. Also sold as BX-00 Dran Dagger 2-80GP Metal Coat: Black Giants Ver. Hasbro English product name: Dagger Dran (item G1670, 4-70Q booster). Stock ratchet 4-60 is already in the catalog; bit R is added as a separate row.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx20.html",
+        "label": "Takara Tomy BX-20 Dran Dagger Deck Set product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_bx20B.png",
+        "label": "Takara Tomy BX-20 parts-detail sheet (ドランダガー4-60R)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-20_manual.pdf",
+        "label": "Takara Tomy BX-20 instruction manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-dagger-dran-4-70-q-booster-pack-set/G1670",
+        "label": "Hasbro Dagger Dran 4-70Q booster (G1670)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "hells-chain",
+    "name": "Hells Chain",
+    "name_ja": "ヘルズチェイン",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-21",
+    "type": "balance",
+    "notes": "Takara Tomy Basic Line blade from set BX-21 Hells Chain Deck Set (released 2023-11-02). Featured stock combo is ヘルズチェイン5-60HT. Official JP copy: upper and lower blade faces have different performance, paired with a mid-height ratchet and bit, for matching opponents of any height. Official parts-detail sheet type icon is Balance (right-spin). Balance label is from that official icon / product copy. Also sold as BX-00 Hells Chain 5-60HT Metal Coat: Black (app/event). Hasbro English product name: Chain Incendio (item G0196, 5-60HT dual pack). Stock ratchet 5-60 is already in the catalog; bit HT is added as a separate row.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx21.html",
+        "label": "Takara Tomy BX-21 Hells Chain Deck Set product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_bx21_p.png",
+        "label": "Takara Tomy BX-21 parts-detail sheet (ヘルズチェイン5-60HT)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-21_manual.pdf",
+        "label": "Takara Tomy BX-21 instruction manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-chain-incendio-5-60-ht-and-arrow-wizard-4-60-n-top-dual-pack-set-ages-8-plus/G0196",
+        "label": "Hasbro Chain Incendio 5-60HT dual pack (G0196)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "weiss-tiger",
+    "name": "Weiss Tiger",
+    "name_ja": "ヴァイスタイガー",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-33",
+    "type": "balance",
+    "notes": "Takara Tomy Basic Line blade from booster BX-33 Weiss Tiger 3-60U (released 2024-06-15). Official JP copy: blade combining attack, defense, and stamina performance, paired with a bit that can dash, counter, and evade, for battles against any opponent. Official parts-detail sheet type icon is Balance (right-spin). Balance label is from that official icon / 3-type product copy. Hasbro English product name: Pearl Tiger (item G1686, 3-60U dual pack with Gill Shark 4-70O). Stock ratchet 3-60 is already in the catalog; bit U is added as a separate row.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx33.html",
+        "label": "Takara Tomy BX-33 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_bx33.png",
+        "label": "Takara Tomy BX-33 parts-detail sheet (ヴァイスタイガー3-60U)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-33_manual.pdf",
+        "label": "Takara Tomy BX-33 instruction manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-gill-shark-4-70-o-and-pearl-tiger-3-60-u-dual-pack-set/G1686",
+        "label": "Hasbro Pearl Tiger 3-60U dual pack (G1686)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "crimson-garuda",
+    "name": "Crimson Garuda",
+    "name_ja": "クリムゾンガルーダ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-38",
+    "type": "balance",
+    "notes": "Takara Tomy Basic Line blade from booster BX-38 Crimson Garuda 4-70TP (released 2024-11-02). Official JP copy: upper face has low stamina loss and the underside is strong at counter attacks, so upper and lower faces differ; paired with a height-switching bit for matching opponents of various heights. Official parts-detail sheet type icon is Balance (right-spin) with a mode-change mark. Balance label is from that official icon / product copy. Hasbro English product name: Scarlet Garuda (item G1673, labeled Balance Type). Stock ratchet 4-70 is already in the catalog; bit TP is added as a separate row.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx38.html",
+        "label": "Takara Tomy BX-38 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_bx38.png",
+        "label": "Takara Tomy BX-38 parts-detail sheet (クリムゾンガルーダ4-70TP)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-38_manual.pdf",
+        "label": "Takara Tomy BX-38 instruction manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-scarlet-garuda-4-70-tp-bx-starter-pack-set-with-balance-type-top-and-launcher-ages-8-plus/G1673",
+        "label": "Hasbro Scarlet Garuda 4-70TP starter (G1673)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "cobalt-drake",
+    "name": "Cobalt Drake",
+    "name_ja": "コバルトドレイク",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-00",
+    "type": "attack",
+    "notes": "Takara Tomy Basic Line blade first listed on app/event booster BX-00 Cobalt Drake 4-60F Clear Ver. (released 2024-11-28). Official JP copy: super-heavyweight blade whose X Dash can strongly knock the opponent away. Also included in set BX-46 Battle Entry Set Infinity as Attack Type コバルトドレイク9-60R (Metal Coat: Red on the parts-detail sheet). Official BX-46 parts-detail sheet type icon is Attack (right-spin). Attack label is from that official icon / BX-46 Attack Type line / BX-00 knock-away copy. Stock letters on those packs (4-60/F, 9-60) are already in the catalog; bit R is added from BX-20.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-cdr.html",
+        "label": "Takara Tomy BX-00 Cobalt Drake 4-60F Clear Ver. product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx46.html",
+        "label": "Takara Tomy BX-46 Battle Entry Set Infinity (コバルトドレイク9-60R)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BX46_01.png",
+        "label": "Takara Tomy BX-46 parts-detail sheet (コバルトドレイク9-60R)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news241115_4.html",
+        "label": "Takara Tomy news: rare-bey コバルトドレイク4-60F クリアVer.",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "tricera-press",
+    "name": "Tricera Press",
+    "name_ja": "トリケラプレス",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-44",
+    "type": "defense",
+    "notes": "Takara Tomy Basic Line blade from booster BX-44 Tricera Press M-85BS (official page date 2025-06-28). Official JP copy: inner-center-of-gravity blade with high stability, paired with a metal-part ratchet, described as excelling at weight-based defense. Official parts-detail sheet type icon is Defense (right-spin); the sheet describes large launcher hooks and an inner-weighted structure that resists being blown away. Defense label is from that official icon / product copy. Ratchet M-85 and bit BS are added as separate rows.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx44.html",
+        "label": "Takara Tomy BX-44 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BX44.png",
+        "label": "Takara Tomy BX-44 parts-detail sheet (トリケラプレスM-85BS)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-44_manual.pdf",
+        "label": "Takara Tomy BX-44 instruction manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-44)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "samurai-calibur",
+    "name": "Samurai Calibur",
+    "name_ja": "サムライカリバー",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-45",
+    "type": "balance",
+    "notes": "Takara Tomy Basic Line blade from booster BX-45 Samurai Calibur 6-70M (official page date 2025-08-09). Official JP copy: early battle uses small blades for rapid hits plus the bit's stamina to hold defense; when it tilts late, the bit's rubber grips while large blades deliver a heavy strike; labeled a Balance Type Beyblade. Official parts-detail sheet type icon is Balance (right-spin). Balance label is from that official icon / Balance Type product copy. Ratchet 6-70 and bit M are added as separate rows. Hasbro Steel Samurai 4-80T is a different combo and is not used as a cross-ref.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx45.html",
+        "label": "Takara Tomy BX-45 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BX45.png",
+        "label": "Takara Tomy BX-45 parts-detail sheet (サムライカリバー6-70M)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-45_manual.pdf",
+        "label": "Takara Tomy BX-45 instruction manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-45)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "goat-tackle",
+    "name": "Goat Tackle",
+    "name_ja": "ゴートタックル",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-46",
+    "type": "defense",
+    "notes": "Takara Tomy Basic Line blade from set BX-46 Battle Entry Set Infinity (official page date 2025-10-11). Stock combo is ゴートタックル7-70T. Official JP copy: defends against attacks while still able to Infinity Dash; the product page labels that combo Balance Type. Official parts-detail sheet blade type icon is Defense (right-spin); the sheet describes eight downward blades that excel at blocking attacks from a low position. Defense label is from that official blade icon / blocking copy. Stock ratchet 7-70 and bit T are already in the catalog and are not duplicated.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx46.html",
+        "label": "Takara Tomy BX-46 Battle Entry Set Infinity product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BX46_02.png",
+        "label": "Takara Tomy BX-46 parts-detail sheet (ゴートタックル7-70T)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-46_manual.pdf",
+        "label": "Takara Tomy BX-46 instruction manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-46)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "dran-strike",
+    "name": "Dran Strike",
+    "name_ja": "ドランストライク",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-49",
+    "type": "attack",
+    "notes": "Takara Tomy Basic Line Expand Blade from starter BX-49 Dran Strike 4-50FF (official page date 2026-05-16). Official JP copy: Basic Line Expand Blade that joins the metal through the center for higher rigidity and stability; Winder Launcher starter. High-rigidity blade plus a low ratchet and a fast-moving bit, described as an Attack Type Beyblade that excels at delivering strong hits repeatedly. Official parts-detail sheet type icon is Attack (right-spin); the sheet describes a heavy six-blade design for intense consecutive attacks. Attack label is from that official Attack Type line / icon. Stock ratchet 4-50 is already in the catalog; bit FF is added as a separate row.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx49.html",
+        "label": "Takara Tomy BX-49 product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BX49.png",
+        "label": "Takara Tomy BX-49 parts-detail sheet (ドランストライク4-50FF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-49_manual.pdf",
+        "label": "Takara Tomy BX-49 instruction manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/gear/",
+        "label": "Takara Tomy Gear Structure (Basic Line Expand Blade)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-m-85",
+    "name": "M-85",
+    "name_ja": "M-85",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "BX-44",
+    "type": "unknown",
+    "notes": "Height/contact ratchet first printed in BX-44 Tricera Press M-85BS. Official parts-detail sheet names it M-85 (エムエイティーファイブ): a high-profile (height 85) ratchet with metal parts for added weight and a simple-type joint that keeps burst resistance constant. Official BX-44 product copy: metal-part ratchet used with an inner-weighted blade for weight-based defense. Ratchets are not a printed Attack/Defense/Stamina/Balance type; type left unknown. Do not confuse with Unique Line Expand lettering that also uses an M- prefix on other packs.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx44.html",
+        "label": "Takara Tomy BX-44 product page (M-85 in トリケラプレスM-85BS)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BX44.png",
+        "label": "Takara Tomy BX-44 parts-detail sheet (M-85)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-44_manual.pdf",
+        "label": "Takara Tomy BX-44 instruction manual (PDF)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "ratchet-6-70",
+    "name": "6-70",
+    "name_ja": "6-70",
+    "part_type": "ratchet",
+    "generation": "Beyblade X",
+    "product_code": "BX-45",
+    "type": "unknown",
+    "notes": "Height/contact ratchet first printed in BX-45 Samurai Calibur 6-70M. Official parts-detail sheet names it 6-70 (シックスセブンティー): mid-height (70) ratchet with six blades arranged in two alternating types to raise parrying performance. Official pages otherwise name it as the 6-70 segment of the product name. Type left unknown.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx45.html",
+        "label": "Takara Tomy BX-45 product page (6-70 in サムライカリバー6-70M)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BX45.png",
+        "label": "Takara Tomy BX-45 parts-detail sheet (6-70)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-45_manual.pdf",
+        "label": "Takara Tomy BX-45 instruction manual (PDF)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-rush",
+    "name": "R (Rush)",
+    "name_ja": "R（ラッシュ）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "BX-20",
+    "type": "attack",
+    "notes": "Shaft-tip bit. Takara Tomy BX-20 parts-detail sheet expands R as ラッシュ (Rush): 10-tooth gear designed to increase X Dash count by slightly holding speed so dashes stay controllable. First listed on BX-20 Dran Dagger 4-60R. Official JP copy: a bit that is easy to keep dashing, for continuous X Dash. Official parts-detail sheet type icon is Attack. Attack label is from that official icon / product copy. Also used on BX-46 Cobalt Drake 9-60R. Do not confuse with Custom Line assist-blade letter R (Round).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx20.html",
+        "label": "Takara Tomy BX-20 product page (4-60R)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_bx20B.png",
+        "label": "Takara Tomy BX-20 parts-detail sheet (R/ラッシュ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BX46_01.png",
+        "label": "Takara Tomy BX-46 parts-detail sheet (R/ラッシュ on 9-60R)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-high-taper",
+    "name": "HT (High Taper)",
+    "name_ja": "HT（ハイテーパー）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "BX-21",
+    "type": "balance",
+    "notes": "Shaft-tip bit. Takara Tomy BX-21 parts-detail sheet expands HT as ハイテーパー (High Taper): designed 1 mm higher than Bit T. First listed on BX-21 Hells Chain 5-60HT. Official JP copy: mid-height ratchet and bit pairing for matching opponents of any height. Official parts-detail sheet type icon is Balance. Balance label is from that official icon / BX-21 Balance Type product. Hasbro English product: Chain Incendio 5-60HT (item G0196).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx21.html",
+        "label": "Takara Tomy BX-21 product page (5-60HT)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_bx21_p.png",
+        "label": "Takara Tomy BX-21 parts-detail sheet (HT/ハイテーパー)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-chain-incendio-5-60-ht-and-arrow-wizard-4-60-n-top-dual-pack-set-ages-8-plus/G0196",
+        "label": "Hasbro Chain Incendio 5-60HT dual pack (G0196)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-unite",
+    "name": "U (Unite)",
+    "name_ja": "U（ユナイト）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "BX-33",
+    "type": "balance",
+    "notes": "Shaft-tip bit. Takara Tomy Plus One Bit campaign and the BX-33 parts-detail sheet expand U as ユナイト (Unite). First listed on booster BX-33 Weiss Tiger 3-60U. Official JP copy: a bit that can dash, counter, and evade (three movement types). Official parts-detail sheet type icon is Balance. Balance label is from that official icon / BX-33 Balance Type product. Hasbro English product: Pearl Tiger 3-60U (item G1686).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news260615_6.html",
+        "label": "Takara Tomy Plus One Bit campaign (U/ユナイト)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx33.html",
+        "label": "Takara Tomy BX-33 product page (3-60U)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_bx33.png",
+        "label": "Takara Tomy BX-33 parts-detail sheet (U/ユナイト)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-gill-shark-4-70-o-and-pearl-tiger-3-60-u-dual-pack-set/G1686",
+        "label": "Hasbro Pearl Tiger 3-60U dual pack (G1686)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-trans-point",
+    "name": "TP (Trans Point)",
+    "name_ja": "TP（トランスポイント）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "BX-38",
+    "type": "balance",
+    "notes": "Shaft-tip bit. Takara Tomy BX-38 parts-detail sheet expands TP as トランスポイント (Trans Point): a Point-type bit with a height mode-change; height changes during X Dash. First listed on booster BX-38 Crimson Garuda 4-70TP. Official JP copy: a bit whose height can be switched, for matching opponents of various heights. Official parts-detail sheet type icon is Balance with a mode-change mark. Balance label is from that official icon / BX-38 Balance Type Hasbro line. Hasbro English product: Scarlet Garuda 4-70TP (item G1673, labeled Balance Type).",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx38.html",
+        "label": "Takara Tomy BX-38 product page (4-70TP)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_bx38.png",
+        "label": "Takara Tomy BX-38 parts-detail sheet (TP/トランスポイント)",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-scarlet-garuda-4-70-tp-bx-starter-pack-set-with-balance-type-top-and-launcher-ages-8-plus/G1673",
+        "label": "Hasbro Scarlet Garuda 4-70TP starter (G1673)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-bound-spike",
+    "name": "BS (Bound Spike)",
+    "name_ja": "BS（バウンドスパイク）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "BX-44",
+    "type": "defense",
+    "notes": "Shaft-tip bit. Takara Tomy BX-44 parts-detail sheet expands BS as バウンドスパイク (Bound Spike): pointed tip that can sink up and down against the ratchet to absorb landing impact. First listed on booster BX-44 Tricera Press M-85BS. Official parts-detail sheet type icon is Defense. Defense label is from that official icon / BX-44 Defense Type product. Also printed on UX-00 Knight Mail 3-85BS (app/event), which is a later listing of the same bit letter.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx44.html",
+        "label": "Takara Tomy BX-44 product page (M-85BS)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BX44.png",
+        "label": "Takara Tomy BX-44 parts-detail sheet (BS/バウンドスパイク)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-44_manual.pdf",
+        "label": "Takara Tomy BX-44 instruction manual (PDF)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-merge",
+    "name": "M (Merge)",
+    "name_ja": "M（マージ）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "BX-45",
+    "type": "balance",
+    "notes": "Shaft-tip bit. Takara Tomy BX-45 parts-detail sheet expands M as マージ (Merge): high-friction rubber tip with a pointed center and jagged surround, described as balancing grip and stamina. First listed on booster BX-45 Samurai Calibur 6-70M. Official JP copy: the bit's stamina holds defense early, then rubber grips when the Bey tilts late. Official parts-detail sheet type icon is Balance. Balance label is from that official icon / BX-45 Balance Type product. Also printed later on BX-00 Storm Spriggan 2-70M.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx45.html",
+        "label": "Takara Tomy BX-45 product page (6-70M)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BX45.png",
+        "label": "Takara Tomy BX-45 parts-detail sheet (M/マージ)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-45_manual.pdf",
+        "label": "Takara Tomy BX-45 instruction manual (PDF)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "bit-free-flat",
+    "name": "FF (Free Flat)",
+    "name_ja": "FF（フリーフラット）",
+    "part_type": "bit",
+    "generation": "Beyblade X",
+    "product_code": "BX-49",
+    "type": "attack",
+    "notes": "Shaft-tip bit. Takara Tomy BX-49 parts-detail sheet expands FF as フリーフラット (Free Flat): rotates freely against the ratchet; slightly narrow flat tip balances reduced stamina loss with dash speed. First listed on starter BX-49 Dran Strike 4-50FF. Official JP copy: a fast-moving bit used with a low ratchet for repeated strong attacks. Official parts-detail sheet type icon is Attack. Attack label is from that official icon / BX-49 Attack Type product.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx49.html",
+        "label": "Takara Tomy BX-49 product page (4-50FF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BX49.png",
+        "label": "Takara Tomy BX-49 parts-detail sheet (FF/フリーフラット)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-49_manual.pdf",
+        "label": "Takara Tomy BX-49 instruction manual (PDF)",
+        "kind": "official"
+      }
+    ]
   }
 ]
