@@ -103,6 +103,16 @@ Adds **later Custom Line packs CX-11–CX-16**, remaining **CX CUP metal blades 
 
 Sources: Takara Tomy Custom Line / Expand Blade product pages and manuals, the CX CUP parts list, and official news for CX-00 Valkyrie Bolt. Bit letters without an official Japanese expansion printed on those pages (e.g. K, D, O, WB, HT on CX-05 / CX-08) are **not** added. No wiki-invented stats.
 
+## Coverage (slice 6 — remaining Random Booster prize parts)
+
+Adds **still-missing Random Booster / Select / Vol. prize parts** after slices 2–5. Existing rows are kept; new rows use new `id`s. The remaining numbered volume after Vol.5/11 coverage is **BX-48 Vol.9**; later Select/Vol. packs already had their featured blades, but several prize **ratchets** and **bits** were never catalogued because Japanese expansions were not yet cited.
+
+- **Blades** — Mammoth Tusk (first BX-00 app/event マンモスタスク2-80E; reprinted in BX-48 Vol.9)
+- **Ratchets** — `7-80` (BX-39 Shelter Drake 7-80GP), `2-80` (first BX-00 Mammoth Tusk 2-80E; also BX-48 Vol.9)
+- **Bits** — official Japanese expansions printed on Takara Tomy parts-detail sheets and/or Plus One Bit campaigns, first listed on those booster prize combos: `LF` Low Flat (BX-14), `O` Orb (BX-16), `Q` Quake (BX-31), `D` Dot (BX-35), `E` Elevate (BX-36), `MN` Metal Needle (UX-05), `GN` Gear Needle (BX-27; also CX-19), `GP` Gear Point (first BX-26; also BX-39 7-80GP), `K` Kick (CX-05), `WB` Wall Ball (CX-08), `Nr` Narrow (CX-18), `DS` Disk Spike (BX-50)
+
+Sources: Takara Tomy Random Booster product pages, parts-detail sheets (`detail_*.png` on those pages), manuals, and Plus One Bit campaign pages. Hasbro shop URLs only as English-name cross-refs when the slug matches. Bit letters still without an official Japanese expansion (e.g. HT, GR, GU, LO, TP, LR) are **not** added. No wiki-invented stats.
+
 ## How to extend
 
 1. Add an object to `data/parts.json` (keep `id` unique; do not overwrite existing rows).
@@ -117,4 +127,4 @@ Sources: Takara Tomy Custom Line / Expand Blade product pages and manuals, the C
 
 ## Next slice
 
-Still out of catalog: later Basic Line (BX) starters and remaining BX-00 collab blades (e.g. Weiss Tiger, Crimson Garuda, Tricera Press, Samurai Calibur, Dran Strike, Storm Spriggan, Storm Pegasus), remaining CX-00 Custom Line collabs that are not on the current CX CUP list (e.g. Tiga Rage, Eva deck, Drake Brave), launchers, and stadiums. A natural follow-up is **later Basic Line (BX) starters and remaining BX-00 collab blades** with the same sourced-only rules.
+Still out of catalog: later Basic Line (BX) starters and remaining BX-00 collab blades (e.g. Weiss Tiger, Crimson Garuda, Tricera Press, Samurai Calibur, Dran Strike, Storm Spriggan, Storm Pegasus, Dranzer Spiral, Driger Slash, Draciel Shield, Xeno Excalibur, Rock Leone, Dragoon Storm), remaining CX-00 Custom Line collabs that are not on the current CX CUP list (e.g. Tiga Rage, Eva deck, Drake Brave), launchers, and stadiums. A natural follow-up is **later Basic Line (BX) starters and remaining BX-00 collab blades** with the same sourced-only rules.
