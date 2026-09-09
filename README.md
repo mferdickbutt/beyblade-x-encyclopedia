@@ -122,6 +122,28 @@ Adds **BX-00 previous-generation collab blades** named on official Takara Tomy p
 
 Sources: Takara Tomy BX-00 product pages, manuals (`BX-00_manual.pdf`, `BXG-04` / `BXG-11` / `BXG-13` / `BXG-20` / `BXG-21` / `BXG-22`, `bx00-sp_manual.pdf`), parts-detail sheets, the lineup, and the BX-00 25th anniversary set page for Dragoon Storm / Storm Pegasis. Hasbro X-Over shop URLs only as English-name cross-refs when the slug matches (Dranzer Spiral, Driger Slash). No wiki-invented stats.
 
+## Coverage (slice 8 — later BX starters)
+
+Adds **later Basic Line (BX) starters, boosters, and deck/entry-set blades** after slices 1–7. Existing rows are kept; new rows use new `id`s.
+
+Packs covered:
+
+- **BX-20** Dran Dagger Deck Set (ドランダガー4-60R)
+- **BX-21** Hells Chain Deck Set (ヘルズチェイン5-60HT)
+- **BX-33** Weiss Tiger 3-60U booster
+- **BX-38** Crimson Garuda 4-70TP booster
+- **BX-00** Cobalt Drake 4-60F Clear Ver. (also in **BX-46** as 9-60R)
+- **BX-44** Tricera Press M-85BS booster
+- **BX-45** Samurai Calibur 6-70M booster
+- **BX-46** Battle Entry Set Infinity (ゴートタックル7-70T; コバルトドレイク9-60R)
+- **BX-49** Dran Strike 4-50FF starter (Basic Line Expand Blade)
+
+- **Blades** — Dran Dagger, Hells Chain, Weiss Tiger, Crimson Garuda, Cobalt Drake, Tricera Press, Samurai Calibur, Goat Tackle, Dran Strike
+- **Ratchets** — `M-85`, `6-70` as printed in those BX combos (`3-60`, `4-60`, `5-60`, `4-70`, `7-70`, `9-60`, `4-50` were already in the catalog)
+- **Bits** — official Japanese expansions printed on Takara Tomy parts-detail sheets and/or Plus One Bit campaigns, first listed on those packs: `R` Rush (BX-20), `HT` High Taper (BX-21), `U` Unite (BX-33), `TP` Trans Point (BX-38), `BS` Bound Spike (BX-44), `M` Merge (BX-45), `FF` Free Flat (BX-49)
+
+Sources: Takara Tomy Basic Line / Expand Blade product pages, manuals, parts-detail sheets (`detail_*.png` on those pages), and the Plus One Bit campaign page for U/ユナイト. Hasbro shop URLs only as English-name cross-refs when the slug matches (Pearl Tiger, Scarlet Garuda, Dagger Dran, Chain Incendio). Bit letters still without an official Japanese expansion on the cited pages (e.g. GF, RA, C, S, HN) are **not** added. No wiki-invented stats.
+
 ## How to extend
 
 1. Add an object to `data/parts.json` (keep `id` unique; do not overwrite existing rows).
@@ -136,4 +158,4 @@ Sources: Takara Tomy BX-00 product pages, manuals (`BX-00_manual.pdf`, `BXG-04` 
 
 ## Next slice
 
-Still out of catalog: later Basic Line (BX) starters (e.g. Weiss Tiger, Crimson Garuda, Tricera Press, Samurai Calibur, Dran Strike), remaining BX-00 collab blades that are only named inside sets rather than as standalone packs (e.g. Victory Valkyrie on the 25th anniversary set), BX-00 IP collabs (Marvel / Star Wars / Transformers / Jurassic World), bit letters that appear on collab packs but still lack an official Japanese expansion (GF, RA, M), remaining CX-00 Custom Line collabs that are not on the current CX CUP list (e.g. Tiga Rage, Eva deck, Drake Brave), launchers, and stadiums. A natural follow-up is **later Basic Line (BX) starters** with the same sourced-only rules.
+Still out of catalog: launchers and stadiums (e.g. BX-10 Extreme Stadium, BX-18 String Launcher, BX-32 Wide Extreme Stadium, BX-40 Winder Launcher L), remaining BX-00 IP collabs (Marvel / Star Wars / Transformers / Jurassic World), remaining BX-00 blades that are only named inside sets rather than as standalone packs (e.g. Victory Valkyrie on the 25th anniversary set), remaining CX-00 Custom Line collabs that are not on the current CX CUP list (e.g. Tiga Rage, Eva deck, Drake Brave), and bit letters that still lack an official Japanese expansion (e.g. GF, RA, C, S, HN). A natural follow-up is **launchers / stadiums** or **remaining CX-00 / IP collabs** with the same sourced-only rules.
