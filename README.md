@@ -113,6 +113,15 @@ Adds **still-missing Random Booster / Select / Vol. prize parts** after slices 2
 
 Sources: Takara Tomy Random Booster product pages, parts-detail sheets (`detail_*.png` on those pages), manuals, and Plus One Bit campaign pages. Hasbro shop URLs only as English-name cross-refs when the slug matches. Bit letters still without an official Japanese expansion (e.g. HT, GR, GU, LO, TP, LR) are **not** added. No wiki-invented stats.
 
+## Coverage (slice 7 — BX-00 collab remakes)
+
+Adds **BX-00 previous-generation collab blades** named on official Takara Tomy product pages after Lightning L-Drago / Mammoth Tusk (already in slices 2 and 6). Existing rows are kept; new rows use new `id`s.
+
+- **Blades** — Bakuten Shoot / Metal Fight / Burst remakes printed as BX-00 packs: Dranzer Spiral (BX-00 3-80T), Driger Slash (BX-00 4-80P), Draciel Shield (BX-00 7-60D), Xeno Excalibur (BX-00 3-60GF), Rock Leone (BX-00 6-80GN), Dragoon Storm (BX-00 4-60RA), Storm Spriggan (BX-00 2-70M), Storm Pegasus (BX-00 3-70RA)
+- **Ratchets / bits** — stock letters on those packs (`3-80`/`T`, `4-80`/`P`, `7-60`/`D`, `3-60`, `6-80`/`GN`, `4-60`, `2-70`, `3-70`) are already in the catalog and are **not** duplicated. Bit letters printed in those product names without an official Japanese expansion on the cited pages (`GF`, `RA`, `M`) are **not** added.
+
+Sources: Takara Tomy BX-00 product pages, manuals (`BX-00_manual.pdf`, `BXG-04` / `BXG-11` / `BXG-13` / `BXG-20` / `BXG-21` / `BXG-22`, `bx00-sp_manual.pdf`), parts-detail sheets, the lineup, and the BX-00 25th anniversary set page for Dragoon Storm / Storm Pegasis. Hasbro X-Over shop URLs only as English-name cross-refs when the slug matches (Dranzer Spiral, Driger Slash). No wiki-invented stats.
+
 ## How to extend
 
 1. Add an object to `data/parts.json` (keep `id` unique; do not overwrite existing rows).
@@ -127,4 +136,4 @@ Sources: Takara Tomy Random Booster product pages, parts-detail sheets (`detail_
 
 ## Next slice
 
-Still out of catalog: later Basic Line (BX) starters and remaining BX-00 collab blades (e.g. Weiss Tiger, Crimson Garuda, Tricera Press, Samurai Calibur, Dran Strike, Storm Spriggan, Storm Pegasus, Dranzer Spiral, Driger Slash, Draciel Shield, Xeno Excalibur, Rock Leone, Dragoon Storm), remaining CX-00 Custom Line collabs that are not on the current CX CUP list (e.g. Tiga Rage, Eva deck, Drake Brave), launchers, and stadiums. A natural follow-up is **later Basic Line (BX) starters and remaining BX-00 collab blades** with the same sourced-only rules.
+Still out of catalog: later Basic Line (BX) starters (e.g. Weiss Tiger, Crimson Garuda, Tricera Press, Samurai Calibur, Dran Strike), remaining BX-00 collab blades that are only named inside sets rather than as standalone packs (e.g. Victory Valkyrie on the 25th anniversary set), BX-00 IP collabs (Marvel / Star Wars / Transformers / Jurassic World), bit letters that appear on collab packs but still lack an official Japanese expansion (GF, RA, M), remaining CX-00 Custom Line collabs that are not on the current CX CUP list (e.g. Tiga Rage, Eva deck, Drake Brave), launchers, and stadiums. A natural follow-up is **later Basic Line (BX) starters** with the same sourced-only rules.

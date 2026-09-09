@@ -3845,5 +3845,256 @@
         "kind": "official"
       }
     ]
+  },
+  {
+    "id": "dranzer-spiral",
+    "name": "Dranzer Spiral",
+    "name_ja": "ドランザースパイラル",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-00",
+    "type": "balance",
+    "notes": "Takara Tomy Basic Line collab blade from booster BX-00 Dranzer Spiral 3-80T (released 2023-07-15). Official JP copy: Bakuten Shoot Beyblade Dranzer Spiral in Beyblade X form; balance-focused parts, described as excelling at both attack and stamina. Official product-page type icon is Balance (right-spin). Balance label is from that official icon / product copy. Hasbro English product name: Dranzer Spiral 3-80T Anniversary X-Over / X-Over Project (items F9584 and G1842, labeled Balance Type). Stock combo 3-80T uses existing ratchet 3-80 and bit T, not duplicated here. Official BX-00 manual lists blade 【ドランザースパイラル】, ratchet 【3-80】, and bit 【T】.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-ds.html",
+        "label": "Takara Tomy BX-00 Dranzer Spiral 3-80T product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BX-00_manual.pdf",
+        "label": "Takara Tomy BX-00 Dranzer Spiral instruction manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_bxg01.png",
+        "label": "Takara Tomy BX-00 Dranzer Spiral parts-detail sheet",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-us/product/beyblade-x-dranzer-spiral-3-80-t-anniversary-x-over-with-balance-type-top-and-launcher-ages-8-plus/F9584",
+        "label": "Hasbro Dranzer Spiral 3-80T Anniversary X-Over (F9584)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "driger-slash",
+    "name": "Driger Slash",
+    "name_ja": "ドライガースラッシュ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-00",
+    "type": "balance",
+    "notes": "Takara Tomy Basic Line collab blade from booster BX-00 Driger Slash 4-80P (released 2024-04-27). Official JP copy: Bakuten Shoot Beyblade Driger Slash in Beyblade X form; shooting method can switch between aggressive movement and stamina-oriented movement for adaptable battles. Official product-page type icon is Balance (right-spin). Balance label is from that official icon. Hasbro English product name: Driger Slash 4-80P X-Over Project starter (item G1843, labeled Balance Type). Stock combo 4-80P uses existing ratchet 4-80 and bit P, not duplicated here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-drs.html",
+        "label": "Takara Tomy BX-00 Driger Slash 4-80P product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BXG-04_manual.pdf",
+        "label": "Takara Tomy BXG-04 / BX-00 Driger Slash manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_bxg04.png",
+        "label": "Takara Tomy BX-00 Driger Slash parts-detail sheet",
+        "kind": "official"
+      },
+      {
+        "url": "https://shop.hasbro.com/en-ca/product/beyblade-x-x-over-project-driger-slash-4-80-p-starter-pack-set-with-balance-type-top-and-launcher-ages-8-plus/G1843",
+        "label": "Hasbro Driger Slash 4-80P X-Over Project starter (G1843)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "draciel-shield",
+    "name": "Draciel Shield",
+    "name_ja": "ドラシエルシールド",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-00",
+    "type": "defense",
+    "notes": "Takara Tomy Basic Line collab blade from booster BX-00 Draciel Shield 7-60D (official page date 2024-12-28). Official JP copy: Bakuten Shoot Beyblade Draciel Shield in Beyblade X form; outer-rim bumps for counter defense plus a thick vertical seven-blade ratchet, described as strong defensive performance against attacks from any direction. Official product-page type icon is Defense (right-spin). Defense label is from that official icon / product copy. Stock combo 7-60D uses existing ratchet 7-60 and bit D, not duplicated here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-drsh.html",
+        "label": "Takara Tomy BX-00 Draciel Shield 7-60D product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BXG-11_manual.pdf",
+        "label": "Takara Tomy BXG-11 / BX-00 Draciel Shield manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_bxg11.png",
+        "label": "Takara Tomy BX-00 Draciel Shield parts-detail sheet",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-00 ドラシエルシールド)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "xeno-excalibur",
+    "name": "Xeno Excalibur",
+    "name_ja": "ゼノエクスカリバー",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-00",
+    "type": "attack",
+    "notes": "Takara Tomy Basic Line collab blade from starter BX-00 Xeno Excalibur 3-60GF (official page date 2025-03-29). Official JP copy: Beyblade Burst Xeno Excalibur in Beyblade X form; Hold Launcher starter. High-speed easy-running bit plus a sword-shaped large single blade with high one-hit performance, described as realizing a high-power dash attack. Official product-page type icon is Attack (right-spin). Attack label is from that official icon / product copy. Stock combo 3-60GF uses existing ratchet 3-60; bit letters GF are printed in the product name but cited pages do not expand GF, so that bit is not added here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-xc.html",
+        "label": "Takara Tomy BX-00 Xeno Excalibur 3-60GF product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BXG-13_manual.pdf",
+        "label": "Takara Tomy BXG-13 / BX-00 Xeno Excalibur manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BXG13.png",
+        "label": "Takara Tomy BX-00 Xeno Excalibur parts-detail sheet",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-00 ゼノエクスカリバー)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "rock-leone",
+    "name": "Rock Leone",
+    "name_ja": "ロックレオーネ",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-00",
+    "type": "defense",
+    "notes": "Takara Tomy Basic Line collab blade from booster BX-00 Rock Leone 6-80GN (official page date 2025-07-19). Official JP copy: Metal Fight Beyblade Rock Leone in Beyblade X form; counter-defense blade and bit combination described as swaying widely in stadium center while countering the opponent. Official product-page type icon is Defense (right-spin). Defense label is from that official icon / product copy. Stock combo 6-80GN uses existing ratchet 6-80 and bit GN, not duplicated here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-rl.html",
+        "label": "Takara Tomy BX-00 Rock Leone 6-80GN product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BXG-20_manual.pdf",
+        "label": "Takara Tomy BXG-20 / BX-00 Rock Leone manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BXG20.png",
+        "label": "Takara Tomy BX-00 Rock Leone parts-detail sheet",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-00 ロックレオーネ)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "dragoon-storm",
+    "name": "Dragoon Storm",
+    "name_ja": "ドラグーンストーム",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-00",
+    "type": "attack",
+    "notes": "Takara Tomy Basic Line collab left-spin blade from booster BX-00 Dragoon Storm 4-60RA (official page date 2025-12-27). Official JP copy: Bakuten Shoot Beyblade Dragoon Storm in Beyblade X form; left-spin attack blade plus a rubber-axis bit, described as high-speed attack on a reverse path versus right-spin Beys; needs a left-spin launcher. Official product-page type icon is Attack (left-spin). Attack label is from that official icon / product copy. Also named in the Takara Tomy Mall BX-00 25th anniversary set. Stock combo 4-60RA uses existing ratchet 4-60; bit letters RA are printed in the product name but cited pages do not expand RA, so that bit is not added here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-drgs.html",
+        "label": "Takara Tomy BX-00 Dragoon Storm 4-60RA product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BXG-22_manual.pdf",
+        "label": "Takara Tomy BXG-22 / BX-00 Dragoon Storm manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-25set.html",
+        "label": "Takara Tomy BX-00 25th anniversary set (ドラグーンストーム4-60RA)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-00 ドラグーンストーム)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "storm-spriggan",
+    "name": "Storm Spriggan",
+    "name_ja": "ストームスプリガン",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-00",
+    "type": "balance",
+    "notes": "Takara Tomy Basic Line collab blade from starter BX-00 Storm Spriggan 2-70M (official page date 2026-03-28). Official JP copy: Beyblade Burst Storm Spriggan in Beyblade X form; Winder Launcher starter. Blade described as strong at both striking and slip-away, paired with a bit that has mobility and stamina, for high performance in both attack and defense. Official product-page type icon is Balance (right-spin). Balance label is from that official icon / product copy. Stock combo 2-70M uses existing ratchet 2-70; bit letter M is printed in the product name but cited pages do not expand M, so that bit is not added here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-ss.html",
+        "label": "Takara Tomy BX-00 Storm Spriggan 2-70M product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/BXG-21_manual.pdf",
+        "label": "Takara Tomy BXG-21 / BX-00 Storm Spriggan manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+        "label": "Takara Tomy Beyblade X lineup (BX-00 ストームスプリガン)",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "storm-pegasus",
+    "name": "Storm Pegasus",
+    "name_ja": "ストームペガシス",
+    "part_type": "blade",
+    "generation": "Beyblade X",
+    "product_code": "BX-00",
+    "type": "attack",
+    "notes": "Takara Tomy Basic Line collab blade from starter BX-00 Storm Pegasis 3-70RA (official page date 2026-07-11). Official JP copy: Metal Fight Beyblade Storm Pegasis in Beyblade X form; special-color String Launcher starter. Upper-shape blade plus a high-attack bit with a rubber flat tip, described as an Attack Type Beyblade that excels at knocking the opponent away. Official product-page type icon is Attack (right-spin). Attack label is from that official Attack Type line / icon. Also named in the Takara Tomy Mall BX-00 25th anniversary set. Stock combo 3-70RA uses existing ratchet 3-70; bit letters RA are printed in the product name but cited pages do not expand RA, so that bit is not added here.",
+    "sources": [
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-sp.html",
+        "label": "Takara Tomy BX-00 Storm Pegasis 3-70RA product page",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/manual/bx00-sp_manual.pdf",
+        "label": "Takara Tomy BX-00 Storm Pegasis instruction manual (PDF)",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/detail_BXG47.png",
+        "label": "Takara Tomy BX-00 Storm Pegasis parts-detail sheet",
+        "kind": "official"
+      },
+      {
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-25set.html",
+        "label": "Takara Tomy BX-00 25th anniversary set (ストームペガシス3-70RA)",
+        "kind": "official"
+      }
+    ]
   }
 ]
