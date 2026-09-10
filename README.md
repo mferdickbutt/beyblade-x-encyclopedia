@@ -4,9 +4,25 @@ Slice repo for structured Beyblade X parts with source links.
 
 This is **not** a complete catalog of every blade, ratchet, bit, or lock chip. Entries are added in sourced slices.
 
-## Data
+## How to read
 
-Parts live in [`data/parts.json`](data/parts.json) as a JSON **array**.
+**Browse in a browser** — open the generated [`encyclopedia.html`](encyclopedia.html) (double-click it, or drag it into a browser). It is a self-contained page with search and filters; no server required.
+
+Regenerate after editing `data/parts.json` (requires `python3`):
+
+```bash
+./scripts/build-html.sh
+```
+
+**Raw data** — parts live in [`data/parts.json`](data/parts.json) as a JSON **array**. Useful `jq` examples:
+
+```bash
+jq '.[].name' data/parts.json
+jq '.[] | select(.part_type == "blade") | {name, product_code}' data/parts.json
+jq '.[] | select(.id == "dran-sword")' data/parts.json
+```
+
+## Data
 
 Verify locally (requires [`jq`](https://jqlang.github.io/jq/)):
 
@@ -155,6 +171,7 @@ Sources: Takara Tomy Basic Line / Expand Blade product pages, manuals, parts-det
    - [Hasbro shop](https://shop.hasbro.com/)
 3. If a Japanese name, product code, or type is not on those pages, store `"unknown"`.
 4. Run `./scripts/verify.sh`.
+5. Run `./scripts/build-html.sh` so `encyclopedia.html` stays in sync.
 
 ## Next slice
 
